@@ -1,3 +1,17 @@
 .home .lead {
   max-width: 520px;
 }
+
+.page{
+  
+  .page-title{
+    text-align: center;
+    @extend .my-5;
+  }
+
+  .page-content{
+    max-width: 640px;
+    @extend .mx-auto;
+    @extend .mb-5;
+  }
+}

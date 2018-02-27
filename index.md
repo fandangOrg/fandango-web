@@ -9,7 +9,7 @@ layout: home
 <div class="col-sm-4 mb-5">
   <h2>What is Fandango?</h2>
   <p>Lorem ipsom dolor sit amet</p>
-  <a href="#" class="btn btn-sm btn-primary">Read more</a>
+  <a href="/the-project/" class="btn btn-sm btn-primary">Read more</a>
 </div>
 
 <div class="col-sm-4 mb-5">
