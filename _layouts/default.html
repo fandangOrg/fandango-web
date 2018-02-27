@@ -42,7 +42,7 @@
 
   <body class="{{ page.layout }}{% if current_project %} {{current_project.name}}{% endif %}">
     {% include header.html %}
-    <main class="container" aria-label="Content">
+    <main>
       {{ content }}
     </main>
     {% include footer.html %}
