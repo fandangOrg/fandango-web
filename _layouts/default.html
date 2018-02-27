@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>{{ page.title | escape }}</title>
+    <meta name="description" content="{{ page_description }}">
+    {% if page.robots %}<meta name="robots" content="{{ page.robots }}">{% endif %}
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicon-16x16.png">
+    <link rel="manifest" href="/assets/img/manifest.json">
+    <link rel="mask-icon" href="/assets/img/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="theme-color" content="#ffffff">
+
+    <!-- Facebook Open Graph metatags -->
+    <meta property="og:title" content="{{ page.title | escape }}" />
+    <meta property="og:locale" content="en" />
+    <meta property="og:description" content="{{ page.title | escape }}" />
+    <meta property="og:url" content="{{ page.url | replace:'index.html','' | absolute_url }}" />
+    <meta property="og:site_name" content="{{ site.title | escape }}" />
+    <meta property="og:type" content="website" />
+    <meta property="fb:app_id" content="{{ site.facebook_id }}" />
+    <!--
+    <meta property="og:image" content="{{ page.image | absolute_url }}" />
+    -->
+
+    <!-- Twitter metatags 
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@civio" />
+    <meta name="twitter:creator" content="@civio" />
+    <meta name="twitter:image:src" content="{{ page.image | default: '/assets/img/civio-square.png' | absolute_url }}" />
+    -->
+
+    <link rel="stylesheet" href="{{ site.path }}/assets/css/main.css">
+
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+    <link rel="alternate" type="application/rss+xml" href="/feed.xml">
+  </head>
+
+  <body class="{{ page.layout }}{% if current_project %} {{current_project.name}}{% endif %}">
+    {% include header.html %}
+    <main class="page-content" aria-label="Content">
+      {{ content }}
+    </main>
+    {% include footer.html %}
+  </body>
+</html>
