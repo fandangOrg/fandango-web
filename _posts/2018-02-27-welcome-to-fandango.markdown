@@ -1,6 +1,6 @@
 ---
-title: Welcome to Jekyll!
-date: 2018-02-27 11:28:55 Z
+title: Welcome to Fandango!
+date: 2018-02-27 11:28:00 Z
 categories:
 - jekyll
 - update
