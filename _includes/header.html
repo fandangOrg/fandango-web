@@ -1,3 +1,4 @@
+{% assign current = page.url | downcase | split: '/' %}
 <header>
   <div class="container d-flex flex-row">
     <a class="navbar-brand" href="/"><h1>{{ site.title }}</h1></a>
@@ -7,13 +8,13 @@
       </button>
       <div class="collapse navbar-collapse" id="main-navbar">
         <ul class="navbar-nav mr-auto">
-          <li class="nav-item">
+          <li class="nav-item{% if current[1] == 'the-project' %} active{% endif %}">
             <a class="nav-link" href="/the-project/">The project</a>
           </li>
-          <li class="nav-item">
+          <li class="nav-item{% if current[1] == 'resources' %} active{% endif %}">
             <a class="nav-link" href="/resources/">Resources</a>
           </li>
-          <li class="nav-item">
+          <li class="nav-item{% if current[1] == 'news' %} active{% endif %}">
             <a class="nav-link" href="/news/">News</a>
           </li>
         </ul>
