@@ -18,7 +18,7 @@ defaults:
     path: ''
     type: posts
   values:
-    permalink: "/:year/:month/:day/:title/"
+    permalink: "/news/:year/:month/:day/:title/"
     layout: post
 email: contacto@civio.es
 description: FAke News discovery and propagation from big Data ANalysis  and artificial
