@@ -14,13 +14,13 @@ layout: home
 <div class="col-md-4 mb-5">
   <h2>Partners</h2>
   <p>Lorem ipsom dolor sit amet</p>
-  <a href="#" class="btn btn-sm btn-primary">Read more</a>
+  <a href="/the-project/#partners" class="btn btn-sm btn-primary">Read more</a>
 </div>
 
 <div class="col-md-4 mb-5">
   <h2>News</h2>
   <p>Lorem ipsom dolor sit amet</p>
-  <a href="#" class="btn btn-sm btn-primary">Read more</a>
+  <a href="/news/" class="btn btn-sm btn-primary">Read more</a>
 </div>
 
 </div>
