@@ -1,8 +1,26 @@
+// Mixins
+
+@mixin gradient($color1: mix( $primary, white, 80% ), $color2:  mix( $primary, white, 25% )) {
+  background: $color1;
+  background: -moz-linear-gradient(top, $color1 0%, $color2 100%);
+  background: -webkit-gradient(left top, left bottom, color-stop(0%, $color1), color-stop(100%, $color2));
+  background: -webkit-linear-gradient(top, $color1 0%, $color2 100%);
+  background: -o-linear-gradient(top, $color1 0%, $color2 100%);
+  background: -ms-linear-gradient(top, $color1 0%, $color2 100%);
+  background: linear-gradient(to bottom, $color1 0%, $color2 100%);
+}
+
+// General
+
 h1, h2, h3, h4, h5,
 .lead,
 .page-title {
   color: $dark;
   font-family: $font-family-titles;
+}
+
+.lead {
+  font-size: 1.125rem;
 }
 
 .btn-more {
@@ -33,22 +51,39 @@ h1, h2, h3, h4, h5,
   }
 }
 
-.navbar-brand {
-  padding: 0;
-  margin: 10px 0;
 
-  h1 {
-    display: none;
-  }
+// Header
+
+.navbar-brand  h1 {
+  display: none;
 }
 
 .navbar {
+  padding: 0;
 
-  .navbar-nav .nav-link {
-    color: $dark;
-    font-family: $font-family-titles;
-    font-weight: 700;
-    text-transform: uppercase;
+  .navbar-nav {
+    padding: 0;
+
+    .nav-link {
+      color: mix( $primary, $dark, 75% );
+      font-size: .875rem;
+      font-family: $font-family-titles;
+      text-transform: uppercase;
+      padding: 1.25rem 1rem;
+    }
+
+    .active .nav-link {
+      color: $dark;
+      font-weight: 700;
+    
+      &:after {
+        content: "";
+        display: block;
+        position: relative;
+        top: 3px;
+        border-bottom: 3px solid $secondary;
+      }
+    }
   }
 
   .navbar-toggler {
@@ -85,6 +120,7 @@ h1, h2, h3, h4, h5,
 .hero {
   background: mix( $primary, white, 25% );
   padding: 1.5rem 0;
+  text-align: center;
   @extend .mb-5;
 
   .page-title{
@@ -98,8 +134,8 @@ h1, h2, h3, h4, h5,
 
 .home-hero {
   padding: 3rem 0 4rem;
-  background: mix( $primary, white, 80% );
-  @extend .text-center;
+  text-align: center;
+  @include gradient;
 
   .lead {
     font-size: 1.625rem;
@@ -117,8 +153,21 @@ h1, h2, h3, h4, h5,
 }
 
 .home-item {
-  margin-bottom: 4rem;
-  @extend .col-sm-12;
+  margin: 6rem 0;
+  @extend .row;
+  
+  .col {
+    padding: 0;
+  }
+
+  img {
+    float: right;
+    width: 80%;
+    max-width: 200px;
+    height: auto;
+    margin-right: 20%;
+    margin-top: .5rem;
+  }
 
   h2 {
     display: inline-block;
@@ -129,6 +178,21 @@ h1, h2, h3, h4, h5,
 
   p {
     margin-top: 1rem;
+    margin-bottom: 1.5rem;
+  }
+
+  &.align-right {
+
+    .col {
+      text-align: right;
+      @extend .justify-content-end;
+    }
+
+    img {
+      float: left;
+      margin-right: 0;
+      margin-left: 20%;
+    }
   }
 }
 
@@ -136,15 +200,20 @@ h1, h2, h3, h4, h5,
 // Mailchimp form
 
 #mc_embed_signup {
-  //background: $primary;
+  @include gradient(mix( $primary, white, 30% ), mix( $primary, white, 70% ));
 
   h3 {
     font-size: 1.5rem;
+    margin: 2rem 0;
+    text-align: center; 
+  }
+
+  .indicates-required {
+    text-align: center;
   }
 
   form {
     padding: 1rem 1.5rem;
-    background: $light;
 
     .mc-field-group {
       width: 100%;
@@ -174,6 +243,24 @@ h1, h2, h3, h4, h5,
 
 #main-footer {
   color: white;
+  font-size: .813rem;
+  font-weight: 300;
   background: $dark;
+  letter-spacing: .015em;
+  text-align: center;
+  line-height: 1.375rem;
   @extend .py-3;
+
+  a {
+    color: $light;
+    font-weight: 400;
+  }
+
+  .eu-flag {
+    display: inline-block;
+    width: 28px;
+    height: 19px;
+    margin-top: -.1rem;
+    margin-right: .5rem;
+  }
 }

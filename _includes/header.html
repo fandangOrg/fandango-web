@@ -1,6 +1,6 @@
 {% assign current = page.url | downcase | split: '/' %}
 <header>
-  <div class="container d-flex flex-row">
+  <div class="container d-flex flex-row align-items-center">
     <a class="navbar-brand" href="/" title="{{ site.title }}">
       <h1>{{ site.title }}</h1>
       <svg width="222" height="35" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 221.72 34.31">
@@ -16,23 +16,18 @@
         <path d="M519.17 421.69a1.78 1.78 0 0 1 .38 0c.5 0 1 .13 1.47.22v-13.54a20.28 20.28 0 0 0-15.29 3.28.37.37 0 0 1-.22.08v21.33a.34.34 0 0 0 .21-.08 20.24 20.24 0 0 1 15.28-3.27V426a.37.37 0 0 0-.35-.37l-.37-.05-.75-.1a6 6 0 0 1-.95-.14 1.74 1.74 0 0 1-.51-.23 1.72 1.72 0 0 1-.67-.89 2.82 2.82 0 0 1-.07-.31 2 2 0 0 1 0-.32 1.85 1.85 0 0 1 1.84-1.9zm-11.75-2.87a1.19 1.19 0 1 1 1.19-1.19 1.19 1.19 0 0 1-1.19 1.19z" transform="translate(-490 -398.75)" fill="url(#linear-gradient)"/>
       </svg>
     </a>
-    <nav class="navbar navbar-light navbar-expand-md ml-auto">
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navbar" aria-controls="main-navbar" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="main-navbar">
-        <ul class="navbar-nav mr-auto">
-          <li class="nav-item{% if current[1] == 'the-project' %} active{% endif %}">
-            <a class="nav-link" href="/the-project/">The project</a>
-          </li>
-          <li class="nav-item{% if current[1] == 'resources' %} active{% endif %}">
-            <a class="nav-link" href="/resources/">Resources</a>
-          </li>
-          <li class="nav-item{% if current[1] == 'news' %} active{% endif %}">
-            <a class="nav-link" href="/news/">News</a>
-          </li>
-        </ul>
-      </div>
+    <nav class="navbar navbar-expand ml-auto">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item{% if current[1] == 'the-project' %} active{% endif %}">
+          <a class="nav-link" href="/the-project/">The project</a>
+        </li>
+        <li class="nav-item{% if current[1] == 'resources' %} active{% endif %}">
+          <a class="nav-link" href="/resources/">Resources</a>
+        </li>
+        <li class="nav-item{% if current[1] == 'news' %} active{% endif %}">
+          <a class="nav-link" href="/news/">News</a>
+        </li>
+      </ul>
     </nav>
   </div>
 </header>
