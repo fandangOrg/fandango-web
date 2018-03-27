@@ -3,8 +3,23 @@
 
 @charset "utf-8";
 
-// Bootstrap 
+@import url("https://fonts.googleapis.com/css?family=Oxygen:400,700|Roboto:300,400,400i,500,700");
 
+// Reassign color vars to semantic color scheme
+$primary:         #08A4CC;  // blue
+$secondary:       #BDF271;  // light green
+$light:           mix( $primary, white, 25% );  // light blue
+$dark:            #373752;  // dark blue
+
+$border-radius:    0;
+$border-radius-lg: 0;
+$border-radius-sm: 0;
+
+$font-family-titles: Oxygen, Arial, sans-serif;
+$font-family-sans-serif: Roboto, Arial, sans-serif;
+
+
+// Bootstrap v4.0.0
 @import "bootstrap/functions";
 @import "bootstrap/variables";
 @import "bootstrap/mixins";
@@ -41,5 +56,6 @@
 @import "bootstrap/utilities";
 @import "bootstrap/print";
 
+@import url("//cdn-images.mailchimp.com/embedcode/classic-10_7.css");
 
 @import "general";
