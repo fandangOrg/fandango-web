@@ -14,17 +14,21 @@ layout: home
   <img src="/assets/img/icon-project.svg" alt="The Project">
 </div>
 <div class="col">
-  <h2>The project</h2>
+  <a href="/the-project/" title="The project">
+    <h2>The project</h2>
+  </a>
   <p>All about the project, its timeline <br/>and the partners involved</p>
-  <a href="/the-project/" class="btn btn-more">Read more</a>
+  <a href="/the-project/" class="btn btn-more" title="Read more">Read more</a>
 </div>
 </div>
 
 <div class="home-item align-right">
 <div class="col">
-  <h2>Resources</h2>
+  <a href="/resources/" title="Resources">
+    <h2>Resources</h2>
+  </a>
   <p>A list of resources related <br/>with the project</p>
-  <a href="/resources/" class="btn btn-more">Read more</a>
+  <a href="/resources/" class="btn btn-more" title="Read more">Read more</a>
 </div>
 <div class="col">
   <img src="/assets/img/icon-resources.svg" alt="Resources">
@@ -36,9 +40,11 @@ layout: home
   <img src="/assets/img/icon-news.svg" alt="News">
 </div>
 <div class="col">
-  <h2>News</h2>
+  <a href="/news/" title="News">
+    <h2>News</h2>
+  </a>
   <p>Last articles related with <br/>the progress of the project</p>
-  <a href="/news/" class="btn btn-more">Read more</a>
+  <a href="/news/" class="btn btn-more" title="Read more">Read more</a>
 </div>
 </div>
 

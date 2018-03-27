@@ -21,6 +21,7 @@ h1, h2, h3, h4, h5,
 
 .lead {
   font-size: 1.125rem;
+  line-height: 1.75rem;
 }
 
 .btn-more {
@@ -118,10 +119,10 @@ h1, h2, h3, h4, h5,
 }
 
 .hero {
-  background: mix( $primary, white, 25% );
   padding: 1.5rem 0;
   text-align: center;
   @extend .mb-5;
+  @include gradient(mix( $primary, white, 50% ), mix( $primary, white, 20% ));
 
   .page-title{
     font-size: 2.5rem;
@@ -197,6 +198,67 @@ h1, h2, h3, h4, h5,
 }
 
 
+// Pages
+
+.page-content {
+  > p,
+  li {
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+  }
+
+  h3 {
+    display: inline-block;
+    font-size: 2rem;
+    padding-bottom: .5rem;
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+    border-bottom: 3px solid $secondary;
+  }
+
+  p {
+    margin-bottom: 1.5rem;
+  }
+}
+
+#resources-list {
+  padding: 0;
+  margin-bottom: 2rem;
+
+  li {
+    list-style: none;
+
+    a {
+      color: $dark;
+    }
+
+    .icon-link {
+      color: $secondary;
+      position: relative;
+      top: 3px;
+      margin-right: .5rem;
+    }
+  }
+}
+
+
+// Posts
+
+.post {
+  text-align: center;
+
+  .date {
+    font-size: 1rem;
+    color: $primary;
+    margin: 0;
+  }
+
+  h3 {
+    color: $dark;
+  }
+}
+
+
 // Mailchimp form
 
 #mc_embed_signup {
@@ -225,6 +287,8 @@ h1, h2, h3, h4, h5,
     }
 
     .button {
+      display: block;
+      width: 100%;
       background: $dark;
       border-radius: 0;
       text-transform: uppercase;
