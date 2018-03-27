@@ -30,8 +30,6 @@ markdown: kramdown
 sass:
   sass_dir: assets/css
   style: compact
-#plugins:
-#- jekyll-feed
 exclude:
 - Gemfile
 - Gemfile.lock
