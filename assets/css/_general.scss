@@ -162,11 +162,9 @@ h1, h2, h3, h4, h5,
   }
 
   img {
-    float: right;
-    width: 80%;
+    width: 100%;
     max-width: 200px;
     height: auto;
-    margin-right: 20%;
     margin-top: .5rem;
   }
 
@@ -184,18 +182,28 @@ h1, h2, h3, h4, h5,
 
   &.align-right {
 
-    .col {
+    .col-7 {
       text-align: right;
       @extend .justify-content-end;
     }
+  }
+
+  @include media-breakpoint-up(sm) {
 
     img {
+      float: right;
+      width: 80%;
+      margin-right: 20%;
+    }
+
+    &.align-right img {
       float: left;
       margin-right: 0;
       margin-left: 20%;
     }
   }
 }
+
 
 
 // Pages

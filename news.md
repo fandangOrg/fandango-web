@@ -5,8 +5,10 @@ permalink: "/news/"
 ---
 
 {% for post in site.posts %}
-<article>
-  <small>{{ post.date | date: "%B %e, %Y" }}</small>
-  <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+<article class="post">
+  <p class="date">{{ post.date | date: "%B %e, %Y" }}</p>
+  <a href="{{ post.url }}" title="{{ post.title }}">
+    <h3>{{ post.title }}</h3>
+  </a>
 </article>
 {% endfor %}

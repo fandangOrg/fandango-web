@@ -10,10 +10,10 @@ layout: home
 <p class="lead text-center mt-4 mb-5">Fake News are now a hot issue in Europe as well as worldwide, particularly referred to Political and Social Challenges that reflect in business as well as in industry. Europe is lacking of a systematic knowledge and data transfer across organizations to address the aggressive emergence of the well-known problem of fake news and post-truth effect.</p>
 
 <div class="home-item">
-<div class="col"> 
+<div class="col-5 col-sm-6"> 
   <img src="/assets/img/icon-project.svg" alt="The Project">
 </div>
-<div class="col">
+<div class="col-7 col-sm-6">
   <a href="/the-project/" title="The project">
     <h2>The project</h2>
   </a>
@@ -23,23 +23,23 @@ layout: home
 </div>
 
 <div class="home-item align-right">
-<div class="col">
+<div class="col-7 col-sm-6">
   <a href="/resources/" title="Resources">
     <h2>Resources</h2>
   </a>
   <p>A list of resources related <br/>with the project</p>
   <a href="/resources/" class="btn btn-more" title="Read more">Read more</a>
 </div>
-<div class="col">
+<div class="col-5 col-sm-6">
   <img src="/assets/img/icon-resources.svg" alt="Resources">
 </div>
 </div>
 
 <div class="home-item">
-<div class="col">
+<div class="col-5 col-sm-6">
   <img src="/assets/img/icon-news.svg" alt="News">
 </div>
-<div class="col">
+<div class="col-7 col-sm-6">
   <a href="/news/" title="News">
     <h2>News</h2>
   </a>
