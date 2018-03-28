@@ -7,7 +7,7 @@ layout: home
 
 <div class="col-lg-8 col-xl-6 offset-lg-2 offset-xl-3">
 
-<p class="lead text-center mt-4 mb-5">Fake News are now a hot issue in Europe as well as worldwide, particularly referred to Political and Social Challenges that reflect in business as well as in industry. Europe is lacking of a systematic knowledge and data transfer across organizations to address the aggressive emergence of the well-known problem of fake news and post-truth effect.</p>
+<p class="lead text-center mt-4 mb-5" markdown="1">**Fake News** are now a hot issue in Europe as well as worldwide, particularly referred to **Political and Social Challenges** that reflect in business as well as in industry. Europe is lacking of a systematic knowledge and data transfer across organizations to address the **aggressive emergence** of the well-known problem of fake news and post-truth effect.</p>
 
 <div class="home-item">
 <div class="col-5 col-sm-6"> 

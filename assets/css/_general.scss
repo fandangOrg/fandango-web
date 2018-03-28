@@ -22,6 +22,10 @@ h1, h2, h3, h4, h5,
 .lead {
   font-size: 1.125rem;
   line-height: 1.75rem;
+
+  strong {
+    font-weight: 600;
+  }
 }
 
 .btn-more {
@@ -215,6 +219,13 @@ h1, h2, h3, h4, h5,
     line-height: 1.75rem;
   }
 
+  ul {
+    margin-bottom: 2rem;
+  }
+  li {
+    margin-bottom: .5rem;
+  }
+
   h3 {
     display: inline-block;
     font-size: 2rem;
@@ -263,6 +274,28 @@ h1, h2, h3, h4, h5,
 
   h3 {
     color: $dark;
+  }
+}
+
+.project-list {
+  padding: 0;
+
+  li {
+    list-style: none;
+    text-align: center;
+
+    a:hover {
+      color: $dark;
+      text-decoration: none;
+    }
+  }
+}
+
+.partner {
+  margin: 4rem 0;
+
+  p {
+    margin-bottom: 1rem;
   }
 }
 
