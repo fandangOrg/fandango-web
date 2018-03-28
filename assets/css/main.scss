@@ -10,6 +10,7 @@ $primary:         #08A4CC;  // blue
 $secondary:       #BDF271;  // light green
 $light:           mix( $primary, white, 25% );  // light blue
 $dark:            #373752;  // dark blue
+$primary-dark: 	  mix( $primary, $dark, 80% );
 
 $border-radius:    0;
 $border-radius-lg: 0;
