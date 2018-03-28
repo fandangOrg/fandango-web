@@ -4,10 +4,8 @@ date: 2018-02-28 12:40:00 Z
 permalink: "/the-project/timeline/"
 ---
 
-### Milestones
-
 <div class="milestone" markdown="1">
-#### Project initiation completed
+### Project initiation completed
 
 This milestones will be reached throughot the following deliverables:
 - D1.1 Management Website
@@ -22,12 +20,12 @@ Work packages WP1, WP2 & WP7
 Engineering
 {: .milestone-partner}
 
-6th month
+June 2018
 {: .milestone-duration}
 </div>
 
 <div class="milestone" markdown="1">
-#### First pilot implemented
+### First pilot implemented
 
 This milestones will be verified throughot the following deliverables:
 - D1.4 1st Interim Periodic Reports
@@ -41,12 +39,12 @@ Work packages WP1, WP2, WP6 & WP7
 VRT
 {: .milestone-partner}
 
-12th month
+December 2018
 {: .milestone-duration}
 </div>
 
 <div class="milestone" markdown="1">
-#### First pilot validated
+### First pilot validated
 
 This milestones will be verified through the following deliverables:
 - D2.3 Technical requirements (platform and service requirements)
@@ -69,12 +67,12 @@ Work packages WP2, WP3, WP4, WP6 & WP8
 Siren Solutions
 {: .milestone-partner}
 
-24th month
+December 2019
 {: .milestone-duration}
 </div>
 
 <div class="milestone" markdown="1">
-#### Finishing of the second round of pilots
+### Finishing of the second round of pilots
 
 This milestones will be verified through the following deliverables:
 - D4.6 Software updates of the modules and prototypes
@@ -86,13 +84,13 @@ Work packages WP4 & WP6
 CERTH
 {: .milestone-partner}
 
-36th month
+December 2020
 {: .milestone-duration}
 </div>
 
 
 <div class="milestone" markdown="1">
-#### Project completed
+### Project completed
 
 This milestones will be achieved through the following deliverables:
 - D7.3 Impact Report • Final Exploitation plan and technology uptake
@@ -105,6 +103,6 @@ Work packages WP1, WP7 & WP8
 Engineering
 {: .milestone-partner}
 
-36th month
+December 2020
 {: .milestone-duration}
 </div>
