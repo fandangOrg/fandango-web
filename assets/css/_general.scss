@@ -279,13 +279,19 @@ h1, h2, h3, h4, h5,
   text-align: center;
 
   .date {
-    font-size: 1rem;
+    font-size: .875rem;
     color: $primary;
     margin: 0;
   }
 
-  .page-content .date {
-    margin-bottom: 2rem;
+  .author {
+    font-size: .875rem;
+    color: $dark;
+    font-weight: 600;
+    padding-right: 1rem;
+    margin-right: .75rem;
+    border-right: 2px solid $secondary;
+    text-transform: uppercase;
   }
 
   h3 {
