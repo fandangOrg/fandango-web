@@ -120,6 +120,17 @@ h1, h2, h3, h4, h5,
     text-align: left;
     @extend .mx-auto;
     @extend .mb-5;
+
+    > p a {
+      color: mix($primary, $dark, 50%);
+      border-bottom: 2px solid $secondary;
+
+      &:hover {
+        color: $primary;
+        text-decoration: none;
+        border-bottom-width: 3px;
+      }
+    }
   }
 }
 
@@ -271,6 +282,10 @@ h1, h2, h3, h4, h5,
     font-size: 1rem;
     color: $primary;
     margin: 0;
+  }
+
+  .page-content .date {
+    margin-bottom: 2rem;
   }
 
   h3 {

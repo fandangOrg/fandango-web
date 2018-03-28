@@ -8,6 +8,7 @@ layout: default
 
 <div class="container">
   <div class="page-content">
-  {{ content }}
+  	<p class="date">{{ page.date | date: "%B %e, %Y" }}</p>
+  	{{ content }}
   </div>
 </div>
