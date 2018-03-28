@@ -2,7 +2,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <title>{{ page.title | escape }}</title>
+  <title>{% if page.layout != 'home' %}{{ page.title | escape }} | {% endif %}FANDANGO</title>
   <meta name="description" content="{{ page_description }}">
   {% if page.robots %}<meta name="robots" content="{{ page.robots }}">{% endif %}
 
