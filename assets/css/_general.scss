@@ -12,14 +12,22 @@
 
 // General
 
-html {
-  position: relative;
-  min-height: 100%;
+html,body {
+  height: 100%;
 }
 
 body {
-  margin-bottom: 54px; /* Margin bottom by footer height */
+  display: flex;
+  flex-direction: column;
 }
+
+main {
+  flex: 1 0 auto;
+}
+#main-footer {
+  flex-shrink: 0;
+}
+
 
 h1, h2, h3, h4, h5,
 .lead,
@@ -476,9 +484,6 @@ header .container {
 // Footer
 
 #main-footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
   color: white;
   font-size: .813rem;
   font-weight: 300;
