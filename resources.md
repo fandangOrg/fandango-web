@@ -10,11 +10,11 @@ permalink: "/resources/"
 ### Articles and reports about fake news
 
 {: .resources-list}
-- "[Final report of the High Level Expert Group on Fake News and Online Disinformation](https://ec.europa.eu/digital-single-market/en/news/final-report-high-level-expert-group-fake-news-and-online-disinformation)"
+- "[Final report of the High Level Expert Group on Fake News and Online Disinformation.](https://ec.europa.eu/digital-single-market/en/news/final-report-high-level-expert-group-fake-news-and-online-disinformation)"
 - The Council of Europe's "[Information disorder: Toward an interdisciplinary framework for research and policy making](https://edoc.coe.int/en/media-freedom/7495-information-disorder-toward-an-interdisciplinary-framework-for-research-and-policy-making.html)".
-- "[Automated fact-checking has come a long way. But it still faces significant challenges.](https://www.poynter.org/news/automated-fact-checking-has-come-long-way-it-still-faces-significant-challenges)", a general introduction about the issue of automated fact-checking and mentions some of the current journalistic initiatives.
+- "[Automated fact-checking has come a long way. But it still faces significant challenges.](https://www.poynter.org/news/automated-fact-checking-has-come-long-way-it-still-faces-significant-challenges)", a general introduction to the topic of automated fact-checking.
 - "[Automated fact-checking is coming (and soon)
-](https://www.poynter.org/news/report-automated-fact-checking-coming-and-soon).
+](https://www.poynter.org/news/report-automated-fact-checking-coming-and-soon), on Full Fact's report on the future of automated verification.
 
 ### Other initiatives
 
