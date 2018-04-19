@@ -6,11 +6,13 @@ permalink: "/resources/"
 
 <div class="alert alert-primary">This section is still growing. We will continue updating it with additional resources and information as the project develops.</div>
 
-## Papers
+### Papers
+
 {: .resources-list}
 - [GitHub Repository](https://github.com/civio/fandango)
 
-## Other initiatives
+### Other initiatives
+
 {: .resources-list}
 - [GitHub Repository](https://github.com/civio/fandango)
 
