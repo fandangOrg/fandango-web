@@ -5,7 +5,7 @@ date: 2018-10-15 14:37:00 Z
 
 Every week, we will provide interesting links to resources from around the web regarding data integration, news verification and fact-checking. Here is our list for this week.
 
-* [New Tool Fights Fake News by Exposing the Websites That Create It(https://www.nextgov.com/cybersecurity/2018/10/new-tool-fights-fake-news-exposing-websites-create-it/151820/).
+* [New Tool Fights Fake News by Exposing the Websites That Create It](https://www.nextgov.com/cybersecurity/2018/10/new-tool-fights-fake-news-exposing-websites-create-it/151820/).
 
 According to [NextGov.com](https://www.nextgov.com/), the study *[Predicting Factuality of Reporting and Bias of News Media Sources](https://www.researchgate.net/publication/327286998_Predicting_Factuality_of_Reporting_and_Bias_of_News_Media_Sources)*, forthcoming in the Proceedings of the 2018 Conference on Empirical Methods in Natural Language, reveals **key features of false news web sites that might be less visible to human fact checkers but can tab a bad news source**.
 
