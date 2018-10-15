@@ -1,5 +1,5 @@
 ---
-title: Fandango Project kick-off
+title: Fandango project kick-off
 date: 2018-01-25 14:25:00 Z
 ---
 
