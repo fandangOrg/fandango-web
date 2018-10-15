@@ -14,4 +14,4 @@ According to [NextGov.com](https://www.nextgov.com/), the study *[Predicting Fac
 * [Catalogue of all projects working to solve Misinformation and Disinformation](https://misinfocon.com/catalogue-of-all-projects-working-to-solve-misinformation-and-disinformation-f85324c6076c
 )
 * Event: [MisinfoCon London - October 24th](https://misinfocon.com/join-us-for-misinfocon-london-oct-24th-a5c597303bab)
-* [What approaches are in play for combatting mis- and dis-information]() https://misinfocon.com/what-approaches-are-in-play-for-combatting-mis-and-dis-information-27a91c4d8708
+* [What approaches are in play for combatting mis- and dis-information](https://misinfocon.com/what-approaches-are-in-play-for-combatting-mis-and-dis-information-27a91c4d8708)
