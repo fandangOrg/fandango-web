@@ -16,5 +16,3 @@ According to [NextGov.com](https://www.nextgov.com/), the study *[Predicting Fac
 )
 * Event: [MisinfoCon London - October 24th](https://misinfocon.com/join-us-for-misinfocon-london-oct-24th-a5c597303bab)
 * [What approaches are in play for combatting mis- and dis-information](https://misinfocon.com/what-approaches-are-in-play-for-combatting-mis-and-dis-information-27a91c4d8708)
-
-* Credibility Coalition Partners with Jigsaw to Develop New Indicators and Dataset
