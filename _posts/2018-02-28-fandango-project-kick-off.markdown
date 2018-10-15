@@ -1,6 +1,6 @@
 ---
 title: Fandango project kick-off
-date: 2018-01-29 14:25:00 Z
+date: 2018-02-28 14:25:00 Z
 ---
 
 On January 17th and 18th, the EC co-funded project Fandango had its kick-off meeting in Bruxelles, Belgium. Fandango will run **for three years** until December 2020.
