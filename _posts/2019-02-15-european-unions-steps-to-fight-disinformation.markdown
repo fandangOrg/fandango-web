@@ -1,5 +1,5 @@
 ---
-title: European Union's steps to fight disinformation
+title: The EU steps up action against disinformation
 date: 2019-02-15 11:36:00 Z
 ---
 
