@@ -7,10 +7,6 @@ Fake news is a problem for democracy for more than eight in ten respondents of t
 
 The [UE Action Plan against Disinformation](https://eeas.europa.eu/headquarters/headquarters-homepage/54866/action-plan-against-disinformation_en) is based on several actions with **both a short -having in mind the upcoming European elections in May- and long term approach**. "Strong commitment and swift actions are necessary to preserve the democratic process and the trust of citizens in public institutions at both national an Union level", concluded the document.  
 
-> The meaning of disinformation for the EU:
-> 
-"Disinformation is understood as verifiably false or misleading information that is created, presented and disseminated for economic gain or to intentionally deceive the public, and may cause public harm".
-
 The four main pillars of the action plan aim to **coordinate governments, civil society, private sector and citizens in fight against fake news**. The objetive of the first part of the plan is to improve the detection, analysis and exposure of disinformation in EU institutions. Stategic Communication Task Forces, including more staff and data analysis tools, would be deployed to acomplish this aim. "There is a need to invest in analytical tools such as dedicated sofware to mine, organise and aggregate vast amounts of digital data", explaines the plan. **Fandango, in this regard, would be a valuable incorporation**. 
 
 The plan also involves the creation of a **Rapid Alert System, a reactive tool for providing disinformation alerts across EU network**. This tool, which is expected to be operative by March 2019, is the second step in fighting fake news.
