@@ -1,6 +1,7 @@
 ---
 title: Fandango presentation alignment with EU action plan for fighting disinformation
 date: 2019-02-22 14:44:00 Z
+image: "/uploads/Captura%20de%20pantalla%202019-02-22%20a%20las%2015.43.01.png"
 ---
 
 Mike Matton, from the innovation area of the VRT broadcaster, was in charge of presenting the Fandango Project during the conference "Countering online disinformation" in the European Commission last January. This event was held in order to take stock of all the European projects currently working towards fighting fake news in alignment with EU Action Plan against disinformation. 
