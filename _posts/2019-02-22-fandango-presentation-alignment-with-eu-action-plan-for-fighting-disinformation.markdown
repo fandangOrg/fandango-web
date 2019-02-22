@@ -5,7 +5,7 @@ date: 2019-02-22 14:44:00 Z
 
 Mike Matton, from the innovation area of the VRT broadcaster, was in charge of presenting the Fandango Project during the conference "Countering online disinformation" in the European Commission last January. This event was held in order to take **stock of all the European projects currently working towards fighting fake news** in alignment with EU Action Plan against disinformation. 
 
-Fandango was introduced along with three others projects in a panel titled **"How Can Digital Technologies Facilitate the Detection and Analysis of False Information?"**. Some of these are already functioning and others are in the first stages. While doing a brief presentation of Fandango, Matton highlighted **the research done by the team to date and the technological tools to be developed that aim to help journalists** deal with large amounts of information.
+Fandango was introduced along with three others projects in a panel titled "How Can Digital Technologies Facilitate the Detection and Analysis of False Information?". Some of these are already functioning and others are in the first stages. While doing a brief presentation of Fandango, Matton highlighted **the research done by the team to date and the technological tools to be developed that aim to help journalists** deal with large amounts of information.
 
 <div class="video">
 <iframe width="640" height="360" src="https://www.youtube.com/embed/fnqBmQahEd0?rel=0&amp;controls=1&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
