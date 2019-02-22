@@ -8,7 +8,7 @@ Mike Matton, from the innovation area of the VRT broadcaster, was in charge of p
 
 Fandango was introduced along with three others projects in a panel titled "How Can Digital Technologies Facilitate the Detection and Analysis of False Information?". Some of these are already functioning and others are in the first stages. While doing a brief presentation of Fandango, Matton highligthed the research done by the team to date and the technological tools to be developed that aim to help journalists deal with large amounts of information.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fnqBmQahEd0";controls=1&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fnqBmQahEd0?rel=0&amp;controls=1&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 Understanding the needs of journalists has been an important first step for the project, bearing in mind that they will be the final users of the tool. VRT, Civio and AMSA, the three partners of Fandango project that are covering the journalistic area of the pilot, came to the realization that both a news verification tool and a photo/video verification tool would be of much help in tackling disinformation with this project.
 
