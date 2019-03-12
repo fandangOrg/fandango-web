@@ -3,11 +3,31 @@ title: Home
 layout: home
 ---
 
+<div class="container">
 <div class="row">
-
 <div class="col-lg-8 col-xl-6 offset-lg-2 offset-xl-3">
-
 <p class="lead text-center mt-4 mb-5" markdown="1">**Fake News** are now a hot issue in Europe as well as worldwide, particularly referred to **Political and Social Challenges** that reflect in business as well as in industry. Europe is lacking of a systematic knowledge and data transfer across organizations to address the **aggressive emergence** of the well-known problem of fake news and post-truth effect.</p>
+</div>
+</div>
+</div>
+
+<div class="home-latest-news">
+  <div class="container">
+  {% for post in site.posts limit:3 %}
+    <article class="post">
+      <p class="date">{{ post.date | date: "%B %e, %Y" }}</p>
+      <a href="{{ post.url }}" title="{{ post.title }}">
+        <h3>{{ post.title }}</h3>
+        {% if post.lead %}<p class="page-lead">{{ post.lead }}</p>{% endif %}
+      </a>
+    </article>
+  {% endfor %}
+  </div>
+</div>
+
+<div class="container">
+<div class="row">
+<div class="col-lg-8 col-xl-6 offset-lg-2 offset-xl-3">
 
 <div class="home-item">
 <div class="col-5 col-sm-6"> 

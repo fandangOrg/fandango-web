@@ -198,6 +198,10 @@ header .container {
   margin: 3.5rem auto 1rem;
 }
 
+.home-latest-news .page-lead {
+  margin-top: .5rem;
+}
+
 
 // Home
 
@@ -219,6 +223,11 @@ header .container {
       font-weight: 700;
     }
   }
+}
+
+.home-latest-news {
+  padding: 3rem 0 .5rem;
+  background: mix($light, #f0f0f0, 50%);
 }
 
 .home-item {
