@@ -198,10 +198,6 @@ header .container {
   margin: 3.5rem auto 1rem;
 }
 
-.home-latest-news .page-lead {
-  margin-top: .5rem;
-}
-
 
 // Home
 
@@ -225,9 +221,34 @@ header .container {
   }
 }
 
-.home-latest-news {
-  padding: 3rem 0 .5rem;
+#home-latest-news {
+  .post{
+    text-align: left;
+    margin-bottom: 2rem;
+  }
+
+  .page-image {
+    @extend .img-fluid;
+    margin-bottom: 1rem;
+  }
+
+  h3{
+    line-height: 2.5rem;
+    border-bottom: 3px solid $secondary;
+  }
+
+  .page-lead {
+    margin-top: 1rem;
+    font-size: 1rem;
+    font-weight: 400;
+  }
+}
+
+#home-description{
+  padding: 4rem 0 3rem;
   background: mix($light, #f0f0f0, 50%);
+  font-size: 1.125rem;
+  line-height: 1.875rem;
 }
 
 .home-item {
