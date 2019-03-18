@@ -566,7 +566,12 @@ header .container {
   }
 
   form {
-    padding: 1rem 1.5rem;
+    padding: 1rem .5rem;
+
+    @include media-breakpoint-up(lg) {
+      padding-right: 1.5rem;
+      padding-left: 1.5rem;
+    }
 
     .mc-field-group {
       width: 100%;
@@ -602,7 +607,7 @@ header .container {
   font-weight: 300;
   background: $dark;
   letter-spacing: .015em;
-  //text-align: center;
+  text-align: left;
   line-height: 1.375rem;
   padding: 2rem 0;
 
@@ -660,4 +665,9 @@ header .container {
       }
     }
   }
+}
+
+#twitter-widget-0{
+  max-height: 500px !important;
+  background: white;
 }
