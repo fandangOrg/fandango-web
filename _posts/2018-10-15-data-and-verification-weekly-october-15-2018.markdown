@@ -1,6 +1,7 @@
 ---
 title: Data & News Verification Weekly
 date: 2018-10-15 14:37:00 Z
+lead: Here you will find a list of useful resources for news verification and fact-checking.
 image: "/uploads/this-were-fake-news.jpg"
 ---
 
