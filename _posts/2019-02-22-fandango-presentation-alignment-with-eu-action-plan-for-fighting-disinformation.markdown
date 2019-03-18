@@ -3,7 +3,6 @@ title: Fandango presentation alignment with EU action plan for fighting disinfor
 date: 2019-02-22 14:44:00 Z
 lead: How Can Digital Technologies Facilitate the Detection and Analysis of False
   Information?
-image: "/uploads/brussels-presentation.jpg"
 ---
 
 Mike Matton, from the innovation area of the VRT broadcaster, was in charge of presenting the Fandango Project during the conference "Countering online disinformation" in the European Commission last January. This event was held in order to take **stock of all the European projects currently working towards fighting fake news** in alignment with EU Action Plan against disinformation. 
