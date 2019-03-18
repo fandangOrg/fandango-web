@@ -4,10 +4,12 @@ layout: default
 
 <div class="hero">
   <h2 class="page-title">{{ page.title }}</h2>
+  {% if page.lead %}<p class="page-lead">{{ page.lead }}</p>{% endif %}
 </div>
 
 <div class="container">
   <div class="page-content">
+  	{% if page.image %}<img src="{{ page.image }}" class="page-image" />{% endif %}
   	<p>{% if page.author %}<span class="author">{{ page.author }}</span> {% endif %}<span class="date">{{ page.date | date: "%B %e, %Y" }}</span></p>
   	{{ content }}
   </div>

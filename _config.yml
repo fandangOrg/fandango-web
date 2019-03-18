@@ -19,8 +19,10 @@ defaults:
     type: posts
   values:
     permalink: "/news/:year/:month/:day/:title/"
-    author: 
     layout: post
+    author: 
+    lead: 
+    image: 
 email: contacto@civio.es
 description: FAke News discovery and propagation from big Data ANalysis  and artificial
   intelliGence Operations

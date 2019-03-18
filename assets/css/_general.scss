@@ -178,22 +178,32 @@ header .container {
 }
 
 .hero {
-  padding: 1.5rem 0;
+  padding: 1.5rem .5rem;
   text-align: center;
   @extend .mb-5;
   @include gradient(mix( $primary, white, 50% ), mix( $primary, white, 20% ));
 
   .page-title{
     font-size: 2.5rem;
+    line-height: 3.5rem;
     letter-spacing: .015em;
   }
+}
+
+.page-lead {
+  color: $dark;
+  font-size: 1.375rem;
+  font-weight: 300;
+  max-width: 640px;
+  margin: 3.5rem auto 1rem;
 }
 
 
 // Home
 
 .home-hero {
-  padding: 3rem 0 4rem;
+  padding: 3rem 0 3.25rem;
+  margin-bottom: 0 !important;
   text-align: center;
   @include gradient;
 
@@ -210,6 +220,72 @@ header .container {
       font-weight: 700;
     }
   }
+}
+
+#home-navigation {
+  background: $dark;
+  margin-bottom: 2rem;
+
+  .nav-link {
+    color: white;
+    padding: 1rem 1.5rem;
+    text-align: center;
+
+    &:hover{
+      color: $dark;
+      background: $light;
+    }
+   
+    @include media-breakpoint-down(md) {
+      padding-right: 1rem;
+      padding-left: 1rem;
+    }
+  }
+
+  @include media-breakpoint-down(xs) {
+    .navbar-nav{
+      display: block;
+      width: 100%;
+      border: none;
+    }
+    .nav-link {
+      padding: .75rem .5rem;
+      border: none;
+      border-bottom: 1px solid $light;
+    }
+  }
+}
+
+#home-latest-news {
+  .post{
+    text-align: left;
+    margin-bottom: 2rem;
+  }
+
+  .page-image {
+    @extend .img-fluid;
+    margin-bottom: 1rem;
+  }
+
+  h3{
+    line-height: 2.5rem;
+    border-bottom: 3px solid $secondary;
+  }
+
+  .page-lead {
+    margin-top: 1rem;
+    font-size: 1rem;
+    font-weight: 400;
+  }
+}
+
+#home-description{
+  font-family: $font-family-titles;
+  padding: 4rem 0 3rem;
+  background: mix($light, #f0f0f0, 50%);
+  font-size: 1.125rem;
+  line-height: 1.875rem;
+  text-align: center;
 }
 
 .home-item {
@@ -292,6 +368,15 @@ header .container {
 
   p {
     margin-bottom: 1.5rem;
+  }
+
+  .img-fluid{
+    margin-bottom: .5rem;
+  }
+
+  .page-image {
+    @extend .img-fluid;
+    margin-bottom: 2rem;
   }
 
   // Video
@@ -481,7 +566,12 @@ header .container {
   }
 
   form {
-    padding: 1rem 1.5rem;
+    padding: 1rem .5rem;
+
+    @include media-breakpoint-up(lg) {
+      padding-right: 1.5rem;
+      padding-left: 1.5rem;
+    }
 
     .mc-field-group {
       width: 100%;
@@ -517,7 +607,7 @@ header .container {
   font-weight: 300;
   background: $dark;
   letter-spacing: .015em;
-  //text-align: center;
+  text-align: left;
   line-height: 1.375rem;
   padding: 2rem 0;
 
@@ -575,4 +665,9 @@ header .container {
       }
     }
   }
+}
+
+#twitter-widget-0{
+  max-height: 500px !important;
+  background: white;
 }
