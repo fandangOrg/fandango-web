@@ -1,5 +1,5 @@
 ---
-title: Data & News Verification Weekly (October 15, 2018)
+title: Data & News Verification Weekly
 date: 2018-10-15 14:37:00 Z
 ---
 
