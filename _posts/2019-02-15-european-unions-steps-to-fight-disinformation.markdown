@@ -1,6 +1,7 @@
 ---
 title: The EU steps up action against disinformation
 date: 2019-02-15 11:36:00 Z
+image: "/uploads/action-plan-against-desinformation.jpg"
 ---
 
 Fake news is a problem for democracy for more than eight in ten respondents of the [lastest Eurobarometer on this topic](http://ec.europa.eu/commfrontoffice/publicopinion/index.cfm/survey/getsurveydetail/instruments/flash/surveyky/2183) published on March 2018. The debate on disinformation at the European level has been on the agenda for a while now. However, **a clear, concrete action plan to prevent this problem from influencing democracies across Europe was not a reality up until last December 2018**. 

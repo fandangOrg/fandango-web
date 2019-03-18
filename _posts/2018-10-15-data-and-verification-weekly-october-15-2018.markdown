@@ -1,6 +1,7 @@
 ---
 title: Data & News Verification Weekly
 date: 2018-10-15 14:37:00 Z
+image: "/uploads/this-were-fake-news.jpg"
 ---
 
 Every week, we will provide interesting links to resources from around the web regarding data integration, news verification and fact-checking. Here is our list for this week.
