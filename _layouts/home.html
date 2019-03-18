@@ -55,8 +55,7 @@
         {% for post in site.posts limit:3 %}
           <article class="post col-md-4">
             <a href="{{ post.url }}" title="{{ post.title }}">
-              {% if post.image %}<img src="{{ post.image }}" class="page-image" />
-              {% else %}<img src="http://lorempixel.com/640/405/people/" class="page-image" />{% endif %}
+              {% if post.image %}<img src="{{ post.image }}" class="page-image" />{% endif %}
               <h3>{{ post.title }}</h3>
               {% if post.lead %}<p class="page-lead">{{ post.lead }}</p>{% endif %}
             </a>
