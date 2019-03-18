@@ -1,7 +1,8 @@
 ---
 title: Fandango presentation alignment with EU action plan for fighting disinformation
 date: 2019-02-22 14:44:00 Z
-lead: How Can Digital Technologies Facilitate the Detection and Analysis of False Information?
+lead: How Can Digital Technologies Facilitate the Detection and Analysis of False
+  Information?
 image: "/uploads/brussels-presentation.jpg"
 ---
 
