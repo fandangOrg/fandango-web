@@ -1,6 +1,8 @@
 ---
 title: The EU steps up action against disinformation
 date: 2019-02-15 11:36:00 Z
+lead: The UE Action Plan aims to coordinate governments, civil society, private sector
+  and citizens in fight against fake news.
 image: "/uploads/action-plan-against-desinformation.jpg"
 ---
 
