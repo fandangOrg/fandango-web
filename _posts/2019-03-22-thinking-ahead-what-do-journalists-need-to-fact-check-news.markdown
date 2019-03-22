@@ -1,9 +1,9 @@
 ---
 title: 'Thinking ahead: What do journalists need to fact check news?'
 date: 2019-03-22 13:05:00 Z
-published: false
 lead: Collecting journalists expectations is a critical part of the Fandango technical
   development phase.
+image: "/uploads/image1-6f368c.jpg"
 ---
 
 Knowing what journalists expect in their fight against misinformation and building a tool that meet their needs is key to the development part of the Fandango Project. To this end, the Fandango team has already **collected and analysed the end user requirements needed to shape the service**. 
