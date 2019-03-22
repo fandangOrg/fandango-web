@@ -21,16 +21,13 @@
   <meta property="og:site_name" content="{{ site.title | escape }}" />
   <meta property="og:type" content="website" />
   <meta property="fb:app_id" content="{{ site.facebook_id }}" />
-  <!--
-  <meta property="og:image" content="{{ page.image | absolute_url }}" />
-  -->
+  {% if page.image %}<meta property="og:image" content="{{ page.image | absolute_url }}" />{% endif %}
 
-  <!-- Twitter metatags 
+  <!-- Twitter metatags -->
   <meta name="twitter:card" content="summary" />
-  <meta name="twitter:site" content="@civio" />
-  <meta name="twitter:creator" content="@civio" />
-  <meta name="twitter:image:src" content="{{ page.image | default: '/assets/img/civio-square.png' | absolute_url }}" />
-  -->
+  <meta name="twitter:site" content="@fandango_eu" />
+  <meta name="twitter:creator" content="@fandango_eu" />
+  {% if page.image %}<meta name="twitter:image:src" content="{{ page.image | absolute_url }}" />{% endif %}
 
   <link rel="stylesheet" href="{{ site.path }}/assets/css/main.css?v1.1">
 
