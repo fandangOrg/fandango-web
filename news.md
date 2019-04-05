@@ -2,6 +2,7 @@
 title: News
 date: 2018-02-28 12:44:00 Z
 permalink: "/news/"
+order: 4
 regenerate: true
 ---
 
