@@ -15,7 +15,7 @@ defaults:
   values:
     layout: page
     order: 0
-    parent:
+    parent: 
 - scope:
     path: ''
     type: posts
