@@ -1,12 +1,27 @@
-{% assign pages = site.pages | sort: 'order' %}
+{% assign pages = site.pages | where: 'is_in_navigation','true' | sort: 'navigation_order' %}
 <div id="home-navigation">
   <nav class="navbar navbar-expand">
     <ul class="navbar-nav mx-auto">
     {% for page in pages %}
 		  {% unless page.parent %}
+      {% assign subpages = site.pages | where: 'navigation_parent',page.title | sort: 'navigation_order' %}
+      {% if subpages.size > 0 %}
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">{{ page.title }}</a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+        {% for subpage in subpages %}
+           <a class="dropdown-item" href="{{ subpage.permalink }}">{{ subpage.title }}</a>
+        {% endfor %}
+        </div>
+      </li>
+      {% else %}
       <li class="nav-item">
         <a class="nav-link" href="{{ page.permalink }}" title="{{ page.title }}">{{ page.title }}</a>
+        {% for subpage in subpages %}
+        <p>{{ subpage.title }}</p>
+        {% endfor %}
       </li>
+      {% endif %}
       {% endunless %}
     {% endfor %}
     </ul>
