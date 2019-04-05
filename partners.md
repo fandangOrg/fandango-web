@@ -2,6 +2,7 @@
 title: Partners
 date: 2018-02-28 12:40:00 Z
 permalink: "/the-project/partners/"
+order: 1
 ---
 
 <p class="lead">FANDAGO project is a consortium of eight partners from across Europe</p>
