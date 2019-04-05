@@ -2,21 +2,13 @@
 <div id="home-navigation">
   <nav class="navbar navbar-expand">
     <ul class="navbar-nav mx-auto">
+    {% for page in pages %}
+		  {% unless page.parent %}
       <li class="nav-item">
-        <a class="nav-link" href="/the-project/what-is-fandango/">What is Fandango?</a>
+        <a class="nav-link" href="{{ page.permalink }}" title="{{ page.title }}">{{ page.title }}</a>
       </li>
-      <li class="nav-item">
-        <a class="nav-link" href="/the-project/timeline/">Timeline</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="/the-project/partners/">Partners</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="/resources/">Resources</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="/news/">News</a>
-      </li>
+      {% endunless %}
+    {% endfor %}
     </ul>
   </nav>
 </div>
