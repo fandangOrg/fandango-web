@@ -14,8 +14,9 @@ defaults:
     type: pages
   values:
     layout: page
-    order: 0
-    parent: 
+    is_in_navigation: false
+    navigation_order: 
+    navigation_parent: 
 - scope:
     path: ''
     type: posts

@@ -2,7 +2,8 @@
 title: Resources
 date: 2018-02-28 12:40:00 Z
 permalink: "/resources/"
-order: 3
+is_in_navigation: true
+navigation_order: 3
 ---
 
 <div class="alert alert-primary">This section is still growing. We will continue updating it with additional resources and information as the project develops.</div>

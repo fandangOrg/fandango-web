@@ -2,8 +2,8 @@
 title: What is Fandango?
 date: 2018-02-28 12:40:00 Z
 permalink: "/the-project/what-is-fandango/"
-order: 0
-parent: The Project
+navigation_order: 0
+navigation_parent: The Project
 ---
 
 **Fake News** are now a hot issue in Europe as well as worldwide, particularly referred to **Political and Social Challenges** that reflect in business as well as in industry. Europe is lacking of a systematic knowledge and data transfer across organizations to **address the aggressive emergence of the well-known problem of fake news and post-truth effect**.

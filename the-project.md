@@ -1,7 +1,8 @@
 ---
 title: The Project
 permalink: "/the-project/"
-order: 0
+is_in_navigation: true
+navigation_order: 0
 layout: page
 ---
 
