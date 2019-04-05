@@ -15,7 +15,7 @@ defaults:
   values:
     layout: page
     is_in_navigation: false
-    navigation_order:
+    navigation_order: 
     navigation_parent: 
 - scope:
     path: ''
