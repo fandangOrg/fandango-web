@@ -15,7 +15,7 @@ defaults:
   values:
     layout: page
     order: 0
-    subpage: false
+    is_subpage: false
 - scope:
     path: ''
     type: posts
