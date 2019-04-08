@@ -78,7 +78,9 @@ h1, h2, h3, h4, h5,
 // Header
 
 .navbar-brand {
-  margin: 1rem 0 0;
+  display: block;
+  text-align: center;
+  margin: 1rem auto;
   padding: 0;
 
   h1 {
@@ -164,9 +166,6 @@ header .container {
   .navbar {
     margin: 0;
   }
-  .navbar-brand {
-    margin: 0;
-  }
 }
 
 
@@ -242,9 +241,8 @@ header .container {
   }
 }
 
-#home-navigation {
+#main-navigation {
   background: $dark;
-  margin-bottom: 2rem;
 
   .nav-link {
     color: white;
@@ -278,6 +276,8 @@ header .container {
 }
 
 #home-latest-news {
+  margin-top: 2rem;
+
   .post{
     text-align: left;
     margin-bottom: 2rem;
