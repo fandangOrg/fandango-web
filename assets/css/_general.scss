@@ -131,6 +131,26 @@ h1, h2, h3, h4, h5,
   }
 }
 
+// Dropdown
+.dropdown-toggle::after {
+  margin-left: .5rem;
+}
+.navbar-nav .dropdown-menu {
+  margin: 0;
+  padding: 0;
+}
+.dropdown-item {
+  background: $light;
+}
+
+@media (max-width: 850px) {
+  .navbar-expand .navbar-nav .dropdown-menu {
+    position: static;
+    border: none;
+    text-align: center;
+  }
+}
+
 header .container {
   @extend .d-flex;
   @extend .align-items-center;
@@ -242,7 +262,8 @@ header .container {
     }
   }
 
-  @include media-breakpoint-down(xs) {
+  @media (max-width: 850px) {
+  //@include media-breakpoint-down(xs) {
     .navbar-nav{
       display: block;
       width: 100%;
