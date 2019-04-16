@@ -14,9 +14,9 @@ Want to make yourself sound like Obama? In the past, that might have required ph
 
 Programs like this are often called deep fakes - **AI systems** that **adapt audio, pictures and videos** to make people say and do things they never did.
 
-These technologies could launch a new era of fake news and online misinformation. In 2017, [Hany Farid](https://www.nature.com/news/the-scientist-who-spots-fake-videos-1.22784), a computer scientist at Dartmouth College,US, who detects fake videos said the rapid proliferation of new manipulation techniques has led to an ‘arms race’. Just imagine what elections will be like when we’re no longer able to trust video and audio. But some researchers are now fighting back and showing that AI can also be used for good.
+These technologies could launch a new era of fake news and online misinformation. In 2017, [Hany Farid](https://www.nature.com/news/the-scientist-who-spots-fake-videos-1.22784), a computer scientist at Dartmouth College,US, who detects fake videos said the **rapid proliferation of new manipulation techniques has led to an ‘arms race’**. Just imagine what elections will be like when we’re no longer able to trust video and audio. But **some researchers are now fighting back** and showing that AI can also be used for good.
 
-‘AI has many ethical problems,’ said Francesco Nucci, applications research director at the Engineering Group, based in Italy. ‘But sometimes it can also be the solution. You can use AI in unethical ways to for example make and spread fake news, but you can also use it to do good, for example, to combat misinformation.’
+‘AI has many ethical problems,’ said Francesco Nucci, applications research director at the Engineering Group, based in Italy. ‘But sometimes it can also be the solution. You can use **AI** in unethical ways to for example make and spread fake news, but you can also **use it to do good, for example, to combat misinformation**.’
 
 #### Fact-checkers
 
