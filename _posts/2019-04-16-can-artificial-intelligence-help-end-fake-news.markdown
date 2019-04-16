@@ -58,7 +58,7 @@ The GoodNews team hopes to monetise this service through a start-up called [Fabu
 
 ‘Our bigger vision is that we want to become a credibility rating house for news, in the same way that certain companies rate a person's consumer credit score,’ said Prof. Bronstein.
 
-####Solve
+#### Solve
 
 Of course that leaves a bigger question - can technology really solve fake news? Both researchers are sceptical, but convinced technology can help. Nucci emphasises that the concept of fake news is contested, and that stories are often not entirely true, but also not entirely false.
 
