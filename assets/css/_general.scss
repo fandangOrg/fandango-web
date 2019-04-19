@@ -183,6 +183,14 @@ header .container {
     @extend .mx-auto;
     @extend .mb-5;
 
+    blockquote p {
+      font-style: italic;
+      background: mix($light, #f0f0f0, 50%);
+      padding: 10px;
+      margin-left: 20px;
+      margin-right: 20px;
+    }
+
     > p a {
       color: $primary-dark;
       border-bottom: 2px solid $secondary;
