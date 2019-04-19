@@ -78,7 +78,9 @@ h1, h2, h3, h4, h5,
 // Header
 
 .navbar-brand {
-  margin: 1rem 0 0;
+  display: block;
+  text-align: center;
+  margin: 1rem auto;
   padding: 0;
 
   h1 {
@@ -131,6 +133,26 @@ h1, h2, h3, h4, h5,
   }
 }
 
+// Dropdown
+.dropdown-toggle::after {
+  margin-left: .5rem;
+}
+.navbar-nav .dropdown-menu {
+  margin: 0;
+  padding: 0;
+}
+.dropdown-item {
+  background: $light;
+}
+
+@media (max-width: 850px) {
+  .navbar-expand .navbar-nav .dropdown-menu {
+    position: static;
+    border: none;
+    text-align: center;
+  }
+}
+
 header .container {
   @extend .d-flex;
   @extend .align-items-center;
@@ -142,9 +164,6 @@ header .container {
     flex-direction: row
   }
   .navbar {
-    margin: 0;
-  }
-  .navbar-brand {
     margin: 0;
   }
 }
@@ -163,6 +182,14 @@ header .container {
     text-align: left;
     @extend .mx-auto;
     @extend .mb-5;
+
+    blockquote p {
+      font-style: italic;
+      background: mix($light, #f0f0f0, 50%);
+      padding: 10px;
+      margin-left: 20px;
+      margin-right: 20px;
+    }
 
     > p a {
       color: $primary-dark;
@@ -222,9 +249,8 @@ header .container {
   }
 }
 
-#home-navigation {
+#main-navigation {
   background: $dark;
-  margin-bottom: 2rem;
 
   .nav-link {
     color: white;
@@ -242,7 +268,8 @@ header .container {
     }
   }
 
-  @include media-breakpoint-down(xs) {
+  @media (max-width: 850px) {
+  //@include media-breakpoint-down(xs) {
     .navbar-nav{
       display: block;
       width: 100%;
@@ -257,6 +284,8 @@ header .container {
 }
 
 #home-latest-news {
+  margin-top: 2rem;
+
   .post{
     text-align: left;
     margin-bottom: 2rem;

@@ -1,7 +1,7 @@
 ---
 title: Partners
 date: 2018-02-28 12:40:00 Z
-permalink: "/the-project/partners/"
+permalink: "/partners/"
 is_in_navigation: true
 navigation_order: 1
 ---
