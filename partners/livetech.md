@@ -6,7 +6,6 @@ navigation_order: 1
 navigation_parent: Partners
 ---
 
-<div class="partner" markdown="1">
 <img src="/assets/img/partners/live-tech.png" alt="LiveTech">
 
 LiveTech is an ICT consulting company founded in 2014 born from the deep experience of his members within the ICT sector, with the goal to provide support within digital, mobile, big data. In particular the management of LiveTech is composes by a group of professional consultants with previous extensive experience in major consulting companies (IBM, CSC, Oracle and Telecom Italia). LiveTech main business is to support its customers to further develop and maintain their IT and application infrastructure.
@@ -20,7 +19,7 @@ LiveTech will contribute with software artefacts, methodologies and technical co
 
 All these contribution are oriented to the development of novel types of recommendation engines that takes into account both consumer’s interests and social features that is constantly optimized by machine learning technologies.
 
-
+<div class="partner" markdown="1">
 [Website](http://www.ilivetech.it/)
 {: .partner-link}
 </div>

@@ -6,7 +6,6 @@ navigation_order: 3
 navigation_parent: Partners
 ---
 
-<div class="partner" markdown="1">
 <img src="/assets/img/partners/siren.png" alt="Siren Solutions">
 
 Formed by a team of Engineers and Scientists that worked at NUIG “DERI Institute”, Sindice (Trading as Siren Solutions) has been doing high end consultancy in Knowledge Graphs and Search System. Based on the experience accumulated, and funded by customers and EU FP7 and H2020, Siren created Kibi, an innovative analytics product which is at the core of this business plan.
@@ -15,6 +14,7 @@ Siren will be providing and extending its product, the “Siren Stack”. The si
 
 Within this project it is expected that Siren will be the building block to create the investigative search interfaces which are needed in the verification of the fake news and tracking of both their origins and consequences.
 
+<div class="partner" markdown="1">
 [@sirensearch](https://twitter.com/sirensearch)
 {: .partner-tw}
 

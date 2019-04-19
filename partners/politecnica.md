@@ -6,7 +6,6 @@ navigation_order: 6
 navigation_parent: Partners
 ---
 
-<div class="partner" markdown="1">
 <img src="/assets/img/partners/politecnica.jpg" alt="Universidad Politécnica De Madrid">
 ### Universidad Politécnica de Madrid
 
@@ -14,6 +13,7 @@ UPM is the oldest and largest Spanish technical university, with more than 4.000
 
 UPM will be mainly involved in the development of technologies and algorithms which can offer a more comprehensive manner of dealing with news (data) upcoming from diverse sources. The main effort of UPM will be concentrated in WP3. Additionally, UPM will be actively involved in activities within WP4. Finally, UPM will participate in the integration and dissemination activities of FANDANGO project.
 
+<div class="partner" markdown="1">
 [@La_UPM](https://twitter.com/La_UPM)
 {: .partner-tw}
 
