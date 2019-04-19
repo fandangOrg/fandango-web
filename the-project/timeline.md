@@ -2,6 +2,8 @@
 title: Timeline
 date: 2018-02-28 12:40:00 Z
 permalink: "/the-project/timeline/"
+navigation_order: 4
+navigation_parent: The Project
 ---
 
 <div class="milestone" markdown="1">
