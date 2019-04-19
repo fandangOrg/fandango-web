@@ -5,7 +5,7 @@ permalink: "/the-project/pilots/"
 navigation_order: 3
 navigation_parent: The Project
 ---
- 
+
 FANDANGO will put to extensive test all developed tools through a series of three pilots in well-structured use cases to assess its benefits and also provide evidence of the usability of the provided tools. The main concept of the piloting procedures within FANDANGO will be to stress the cross-sectorial, cross-lingual and cross-border aspect of the FANDANGO’s solutions.
 
 **Climate**, **Immigration** and **European Context** are typical scenarios where fake news can influence perception with respect to social and business actions. Such examples are: a) Fake news regarding climate data, which generate confusion towards the potential threats of climate changes that can effect the society’s and business’ choices; b) Fake news regarding immigrants, where criminal events are immediately imputed to refuges, which may result to shape a common racist belief in the society, c) Fake News on European Context – either by fake news published by online sites, or by hacking or misinformation – are viewed as a serious threat to the integration of Europea and, even to the democratic process.
