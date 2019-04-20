@@ -8,5 +8,7 @@ layout: page
 
 {: .project-list}
 - ### [What is Fandango?](/the-project/what-is-fandango/)
+- ### [Technical approach](/the-project/technical-approach/)
+- ### [Ambition](/the-project/ambition/)
+- ### [Pilots](/the-project/pilots/)
 - ### [Timeline](/the-project/timeline/)
-- ### [Partners](/the-project/partners/)
