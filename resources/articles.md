@@ -10,10 +10,15 @@ navigation_parent: Resources
 * "[Final report of the High Level Expert Group on Fake News and Online Disinformation](https://ec.europa.eu/digital-single-market/en/news/final-report-high-level-expert-group-fake-news-and-online-disinformation)" ([PDF](http://ec.europa.eu/newsroom/dae/document.cfm?doc_id=50271)):
 
   > The multi-dimensional approach recommended by the HLEG is based on a number of interconnected and mutually reinforcing responses. These responses rest on five pillars designed to:
+  >
   > 1) enhance transparency of online news, involving an adequate and privacy-compliant sharing of data about the systems that enable their circulation online;
+  >
   > 2) promote  media and information literacy to counter disinformation and help users navigate the digital media environment;
+  >
   > 3) develop tools for empowering users and journalists to tackle disinformation and foster a positive engagement with fast-evolving information technologies;
+  >
   > 4) safeguard the diversity and sustainability of the European news media ecosystem, and
+  >
   > 5) promote continued research on the impact of disinformation in Europe to evaluate the measures taken by different actors and constantly adjust the necessary responses.
 
   As a follow-up, the EU Commission published "[Tackling online disinformation: Commission proposes an EU-wide Code of Practice](http://europa.eu/rapid/press-release_IP-18-3370_en.htm)":
@@ -29,6 +34,7 @@ navigation_parent: Resources
   > This report provides a new framework for policy-makers, legislators, researchers, technologists and practitioners working on the theoretical and practical challenges related to mis-, dis- and mal-information — the three elements of information disorder. While the historical impact of rumours and fabricated content have been well documented, the complexity and scale of information pollution in our digitally-connected, increasingly polarised world presents an unprecedented challenge. There is an immediate need to work collaboratively on workable solutions and this report provides a framework for the different stakeholders involved in research, policy discussions, and technical innovations connected to this phenomenon of information disorder.
 
 * Public Data Lab Published ["A Field Guide to “Fake News” and Other Information Disorders"](http://fakenews.publicdatalab.org/):
+
   > Explores the use of digital methods to study false viral news, political memes, trolling practices and their social life online [and responds] to an increasing demand for understanding the interplay between digital platforms, misleading information, propaganda and viral content practices, and their influence on politics and public life in democratic societies.
 
 * "[Automated fact-checking has come a long way. But it still faces significant challenges.](https://www.poynter.org/news/automated-fact-checking-has-come-long-way-it-still-faces-significant-challenges)" gives a general introduction about the issue of automated fact-checking and mentions some of the current journalistic initiatives. It's based and similar to the factsheet published by The Reuters Institute for the Study of Journalism, "[Understanding the Promise and Limits of Automated Fact-Checking](http://reutersinstitute.politics.ox.ac.uk/sites/default/files/2018-02/graves_factsheet_180226%20FINAL.pdf)" (summarised by Poynter [here](https://www.poynter.org/news/heres-how-close-automated-fact-checking-reality)).
@@ -36,6 +42,7 @@ navigation_parent: Resources
 * "[Fail and move on: Lessons from automated fact-checking experiments](https://www.poynter.org/news/fail-and-move-lessons-automated-fact-checking-experiments)":
 
   > It is easy to get excited about the future of automated fact-checking, with all the promising projects being led by journalists, tech companies and academics. But it's also early days for the field, and many early projects are unlikely to yield anything practically or commercially viable. [...]
+  >
   > We looked back at two of the most hyped automated fact-checking tools of recent years to ask what they got right, where they came up short and what this tells us about future development. Specifically, we focused on Truth Goggles, a master’s thesis project designed to highlight questionable claims and display relevant findings from fact-checkers and The Washington Post’s Truth Teller which compared video against fact-check databases. 
 
 * Full Fact's "[The State of Automated Factchecking](https://fullfact.org/blog/2016/aug/automated-factchecking/)" ([PDF](https://fullfact.org/media/uploads/full_fact-the_state_of_automated_factchecking_aug_2016.pdf)), covered [here](https://www.poynter.org/news/report-automated-fact-checking-coming-and-soon), "is an in-depth report looking at where we are with automated factchecking globally, and where we could get to with the necessary funding." It's split into two parts: "A roadmap for automated factchecking" and "What we can do now and what remains to be done".

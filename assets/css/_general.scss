@@ -183,12 +183,17 @@ header .container {
     @extend .mx-auto;
     @extend .mb-5;
 
-    blockquote p {
+    blockquote {
       font-style: italic;
       background: mix($light, #f0f0f0, 50%);
-      padding: 10px;
+      padding: 10px 10px 1px 10px;
       margin-left: 20px;
       margin-right: 20px;
+      margin-top: -15px;
+
+      p {
+        margin-bottom: 0.75rem;
+      }
     }
 
     > p a {
@@ -373,7 +378,7 @@ header .container {
 // Pages
 
 .page-content {
-  > p,
+  p,
   li {
     font-size: 1.125rem;
     line-height: 1.75rem;
@@ -406,6 +411,10 @@ header .container {
   .page-image {
     @extend .img-fluid;
     margin-bottom: 2rem;
+  }
+
+  .figure {
+    text-align: center;
   }
 
   // Video
