@@ -2,6 +2,9 @@
 title: Talking about disinformation at the International Journalism Festival
 date: 2019-05-23 11:48:00 Z
 author: Fandango
+lead: Journalists' efforts to tackle disinformation was key issue of many panels.
+  Check out the ones we found interesting.
+image: "/uploads/perugia_journalism.png"
 ---
 
 During the last months we have been listening and learning from professionals that are leading the way in the fact-checking sector. We were at the **International Journalism Festival in Perugia (Italy)**, where the conversation about misinformation, disinformation and the **efforts from journalists to tackle this issue was the center of many panels**. Here we have selected the ones we think are the most interesting: 
