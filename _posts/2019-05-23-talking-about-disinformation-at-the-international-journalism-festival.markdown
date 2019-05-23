@@ -51,7 +51,7 @@ Check the whole disscusion in the following video:
 
 #### Disinformation in covering migration
 
-Such important issue, as it is disinformation in covering migration, was discussed by Joyce Barnathan, president of ICFJ; Joan Donovan, director at TSCRP Shorenstein Center; Abubakar Ibrahim, features editor at Daily Trust; and Jacopo Ottaviani, chief data officer at Code for Africa. 
+Such important issue, as it is disinformation in covering migration, was discussed by Joyce Barnathan, president of [ICFJ](https://www.icfj.org); Joan Donovan, director at [TSCRP Shorenstein Center](https://shorensteincenter.org); Abubakar Ibrahim, features editor at [Daily Trust](https://www.dailytrust.com.ng); and Jacopo Ottaviani, chief data officer at [Code for Africa](https://codeforafrica.org). 
 
 Check the whole panel:
 
