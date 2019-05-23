@@ -11,7 +11,7 @@ During the last months we have been listening and learning from professionals th
 
 #### Deepfakes, shallow fakes and real deal journalism
 
-This panel included the experiences of Ed Bice, CEO at [Meedan](https://meedan.com/en/), Alba Mora, executive producer at [AJ+ Español](https://www.ajplus.net/espanol), Dan Schultz form [Bad Idea Factory](https://biffud.com) and Tom Trewinnard,
+This panel included the experiences of Ed Bice, CEO at [Meedan](https://meedan.com/en/), Alba Mora, executive producer at [AJ+ Español](https://www.ajplus.net/espanol), Dan Schultz from [Bad Idea Factory](https://biffud.com) and Tom Trewinnard,
 director of programs at Meedan. Here are some of the notes we collected during the talk:
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/albamoraroca?ref_src=twsrc%5Etfw">@albamoraroca</a> is showcasing <a href="https://twitter.com/VerificadoMX?ref_src=twsrc%5Etfw">@verificadomx</a> work during Mexican elections and <a href="https://twitter.com/ajplusespanol?ref_src=twsrc%5Etfw">@ajplusespanol</a> work on fact-checking viral images. They also have tutorials available on how to do reverse image search for readers.</p>&mdash; Fandango Project (@fandango_eu) <a href="https://twitter.com/fandango_eu/status/1113752958947274753?ref_src=twsrc%5Etfw">April 4, 2019</a></blockquote>
