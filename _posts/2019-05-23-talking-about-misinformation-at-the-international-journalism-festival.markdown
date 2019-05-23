@@ -1,5 +1,5 @@
 ---
-title: Talking about disinformation at the International Journalism Festival
+title: Talking about misinformation at the International Journalism Festival
 date: 2019-05-23 11:48:00 Z
 lead: Journalists' efforts to tackle disinformation was a key issue on many panels.
   Check out the ones we found interesting.
