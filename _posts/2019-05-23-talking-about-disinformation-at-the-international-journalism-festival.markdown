@@ -38,7 +38,7 @@ The whole panel is in the following video:
 
 #### Technology and automation in the fight against misinformation
 
-Talking about automation in fact-checking were Alexandre Alaphilippe, executive director of [EU DisinfoLab](https://www.disinfo.eu); Hazel Baker, global head of UGC newsgathering at [Reuters](https://www.reuterscommunity.com); Guido Buelow from strategic initiatives at EMEA [Facebook](https://www.facebook.com/business); and Jochen Spangenberg, innovation manager at [Deutsche Welle](https://www.dw.com/en/top-stories/s-9097).
+To talk about automation in fact-checking there were Alexandre Alaphilippe, executive director of [EU DisinfoLab](https://www.disinfo.eu); Hazel Baker, global head of UGC newsgathering at [Reuters](https://www.reuterscommunity.com); Guido Buelow from strategic initiatives at EMEA [Facebook](https://www.facebook.com/business); and Jochen Spangenberg, innovation manager at [Deutsche Welle](https://www.dw.com/en/top-stories/s-9097).
 
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/HazelBakerNews?ref_src=twsrc%5Etfw">@HazelBakerNews</a> explains how <a href="https://twitter.com/Reuters?ref_src=twsrc%5Etfw">@Reuters</a> newroom fact-check information and what tools they use for it. <a href="https://t.co/TYbMqQX7z5">pic.twitter.com/TYbMqQX7z5</a></p>&mdash; Fandango Project (@fandango_eu) <a href="https://twitter.com/fandango_eu/status/1113842717795213318?ref_src=twsrc%5Etfw">April 4, 2019</a></blockquote>
 
