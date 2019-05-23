@@ -25,7 +25,7 @@ You can watch the whole panel in the following video:
 
 #### Google News Initiative: digital newsgathering and verification
 
-This panel is a masterclass of Michaela Cancela Kieffer from [Google News Lab](https://newsinitiative.withgoogle.com/training/) on detecting disinformation and fact-checking it. If you want to kick look at what she said, check our notes from the event:
+This panel is a masterclass of Michaela Cancela Kieffer from [Google News Lab](https://newsinitiative.withgoogle.com/training/) on detecting disinformation and fact-checking it. If you want to have a kick look at what she said, check our notes from the event:
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">We are learning about Google&#39;s verification tools in the Google News Initiative panel at <a href="https://twitter.com/hashtag/ifj19?src=hash&amp;ref_src=twsrc%5Etfw">#ifj19</a>. Here are some examples of fake images we are looking at: <a href="https://t.co/IHCzDeLyLD">pic.twitter.com/IHCzDeLyLD</a></p>&mdash; Fandango Project (@fandango_eu) <a href="https://twitter.com/fandango_eu/status/1113781901196713985?ref_src=twsrc%5Etfw">April 4, 2019</a></blockquote>
 
