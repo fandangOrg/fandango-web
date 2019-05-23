@@ -183,6 +183,11 @@ header .container {
     @extend .mx-auto;
     @extend .mb-5;
 
+    h4 {
+      line-height: 2rem;
+      margin-bottom: 1rem;
+    }
+
     blockquote {
       font-style: italic;
       background: mix($light, #f0f0f0, 50%);
