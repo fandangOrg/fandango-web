@@ -29,7 +29,7 @@
   <meta name="twitter:creator" content="@fandango_eu" />
   {% if page.image %}<meta name="twitter:image:src" content="{{ page.image | absolute_url }}" />{% endif %}
 
-  <link rel="stylesheet" href="{{ site.path }}/assets/css/main.css?v1.1">
+  <link rel="stylesheet" href="{{ site.path }}/assets/css/main.css?{{ site.version }}">
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" href="/feed.xml">

@@ -26,6 +26,7 @@ defaults:
     author: 
     lead: 
     image: 
+version: 1.1.1
 email: contacto@civio.es
 description: FAke News discovery and propagation from big Data ANalysis  and artificial
   intelliGence Operations
