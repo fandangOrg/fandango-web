@@ -71,7 +71,3 @@ James Ball, author of the book "Post-Truth: How Bullshit Conquered The World" ga
 
 <!-- Twitter Script -->
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<style>
-#twitter-widget-0{ max-height: none !important; }
-</style>
