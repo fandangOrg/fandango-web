@@ -13,4 +13,4 @@ Massimo Magaldi, from [Engineering Ingegneria Informatica](https://www.eng.it/en
 
 
 
-The whole presentation, in Italian, is available for consultation in [this link](http://www.ital-ia.it/submission/211/presentation). Along with it, a paper (also in Italian) about Fandango is available in [this link](http://www.ital-ia.it/submission/211/paper). 
+The **whole presentation**, in Italian, **is available for consultation in [this link](http://www.ital-ia.it/submission/211/presentation)**. Along with it, **a paper** (also in Italian) about Fandango is **available in [this link](http://www.ital-ia.it/submission/211/paper)**. 
