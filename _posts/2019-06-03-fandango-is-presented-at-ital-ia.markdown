@@ -1,7 +1,7 @@
 ---
 title: Fandango is presented at Ital-IA
 date: 2019-06-03 10:22:00 Z
-lead: The project was selected for showcasing under the theme AI for media and entertainment
+lead: The project was selected for showcasing under the topic "AI for media and entertainment".
 image: "/uploads/Fandango_italia.png"
 ---
 
