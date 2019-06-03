@@ -639,6 +639,11 @@ header .container {
       }
     }
   }
+
+  #twitter-widget-0{
+    max-height: 500px !important;
+    background: white;
+  }
 }
 
 
@@ -710,7 +715,6 @@ header .container {
   }
 }
 
-#twitter-widget-0{
-  max-height: 500px !important;
-  background: white;
+.twitter-tweet {
+  margin-bottom: 1.75rem !important;
 }
