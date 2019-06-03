@@ -11,4 +11,6 @@ Massimo Magaldi, from [Engineering Ingegneria Informatica](https://www.eng.it/en
 
 <blockquote class="twitter-tweet" data-lang="es"><p lang="it" dir="ltr">Presentato il progetto <a href="https://twitter.com/fandango_eu?ref_src=twsrc%5Etfw">@fandango_eu</a> per combattere le fake news: le tecniche di <a href="https://twitter.com/hashtag/AI?src=hash&amp;ref_src=twsrc%5Etfw">#AI</a> utilizzate sul testo <a href="https://twitter.com/2019Ital?ref_src=twsrc%5Etfw">@2019Ital</a> <a href="https://t.co/acSClxh3Kj">pic.twitter.com/acSClxh3Kj</a></p>&mdash; Giuseppe Futia (@giuseppe_futia) <a href="https://twitter.com/giuseppe_futia/status/1107693021125099520?ref_src=twsrc%5Etfw">18 de marzo de 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
+
+
 The whole presentation, in Italian, is available for consultation in [this link](http://www.ital-ia.it/submission/211/presentation). Along with it, a paper (also in Italian) about Fandango is available in [this link](http://www.ital-ia.it/submission/211/paper). 
