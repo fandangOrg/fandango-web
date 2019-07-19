@@ -15,13 +15,13 @@ When Mark Zuckerberg testified before Congress last year, the Facebook CEO addre
 
 But if the way forward relies at least partly on solutions that aren’t human, **can we be sure such systems don’t fall prey to the kinds of biases and agendas** that have turned **social media from what was hoped** to be a free exchange of facts and ideas into what many believe **to be a serious threat to democracy**? Not entirely, according to some of the programmers currently developing such systems.
 
-### Trust problem
+#### Trust problem
 
 There’s little debate that the phenomenon of “fake news”—real and imagined—is exacerbating deep distrust in the news media, especially in sources shared over social media platforms. **Americans believe that some 65 percent of news distributed on social media is either “made up” or “cannot be verified as accurate,”** according to a [recent report](https://knightfoundation.org/reports/perceived-accuracy-and-bias-in-the-news-media) by the Gallup and Knight foundations.
 
 Such views aren’t unreasonable. **Of 30 million tweets containing links to news outlets in the five months leading up to the 2016 election, 25 percent “spread either fake or extremely biased news,”** [one study found](https://www.nature.com/articles/s41467-018-07761-2). Many of the tweets came from Russian sources, part of a deliberate effort to interfere in the race and undermine American democracy. The exposure was widespread: the tweets were viewed as many as 288 million times, according to [another report](https://www.abc.net.au/religion/democracy-and-the-problem-of-fake-news/10392514).
 
-### Growing automation
+#### Growing automation
 
 Although a burgeoning industry of fact-checking websites with teams of analysts is working to rebut fake news, they typically take a long time to release information, often after news cycles have moved on. **Enter computer automation, with the ability to scan huge tracts of writing, on which fact-checkers are increasingly relying**. Since the 2016 election, “we are seeing much more of an automation move in fact-checking, and a lot of this is to automate detection of false statements,” said Angie Holan, as editor at Politifact, a leading fact-checking platform run by the Florida-based Poynter Institute. Current methods include feeding articles into what’s called a computer assisted reporting (CAR) text analyzer. But not every falsehood is caught. “I still find human analysts better at capturing the whole picture,” Holan said.
 
@@ -35,7 +35,7 @@ The cutting edge of AI research is centered around the development of deep learn
 
 By contrast, deep learning—technically still a subset of machine learning—builds on the concept of neural networks to enable AI to make predictions and decisions independently. **Modeled on the human brain, neural networks are significantly expanding the capabilities of AI**.
 
-### Inherent bias
+#### Inherent bias
 
 **But can AI independently eliminate bias in its methods?** That’s currently a topic of debate, with most in the industry agreeing the answer depends on how AI is developed.
 
