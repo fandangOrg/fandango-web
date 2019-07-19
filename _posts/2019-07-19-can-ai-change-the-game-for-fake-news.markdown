@@ -51,4 +51,4 @@ But even if AI were capable of unbiased fact-checking, it probably wouldn’t en
 
 Still, although much more needs to be done to make **AI a reliable radar for detecting false and misleading reporting, its potential benefit makes it a promising investment**. “It can assist journalists in their day-to-day work,” Álvarez del Vayo said, **“and by helping media outlets not to fall for hoaxes and distribute misinformation, it can help rebuild trust in traditional outlets.”**
 
-**The postings on this site are my own and don’t necessarily represent IBM’s positions, strategies or opinions.**
+*The postings on this site are my own and don’t necessarily represent IBM’s positions, strategies or opinions.*
