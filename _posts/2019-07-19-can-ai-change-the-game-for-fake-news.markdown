@@ -41,7 +41,7 @@ By contrast, deep learning—technically still a subset of machine learning—bu
 
 Since the models, regardless of whether they incorporate machine or deep learning, rely on human training, some argue that **bias and perceptions in those developing AI will inevitably be reflected in the technology**.
 
-**“Having unbiased datasets for training an AI model is definitely one of the most difficult tasks,” said Theodoros Moysiadis, a researcher at CERTH and partner with the FANDANGO PROJECT**.
+**“Having unbiased datasets for training an AI model is definitely one of the most difficult tasks,” said Theodoros Semertzidis, a researcher at CERTH and partner with the FANDANGO PROJECT**.
 
 Holan agreed. Although AI’s potential benefit makes it a promising investment, he said, “as of now, it still requires a human touch.”
 
