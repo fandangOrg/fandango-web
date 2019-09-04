@@ -1,7 +1,6 @@
 ---
 title: A summer in the fact-checking world
 date: 2019-09-04 10:37:00 Z
-published: false
 lead: We haven't stopped learning during the summer. Here, we show you our latest
   discoveries and insights.
 image: "/uploads/fandango_summer.png"
