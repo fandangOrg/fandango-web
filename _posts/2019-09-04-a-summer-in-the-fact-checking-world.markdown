@@ -22,6 +22,6 @@ If you wish to have detailed information about the processes behind these featur
 
 We also attended the *Global Fact 6* summit in Cape Town, South Africa, in mid June. Here, we learned about the latest fact-checking trends and got the chance to talk with professionals both from the media and the technological sector. 
 
-Find the video from the sessions [here](https://www.poynter.org/fact-checking/2019/global-fact-6/)
+Find the video from the sessions [here](https://www.poynter.org/fact-checking/2019/global-fact-6/).
 
 P.S. It is almost ten hours of video, but we promise you that listen to the conferences is worth the effort. 
