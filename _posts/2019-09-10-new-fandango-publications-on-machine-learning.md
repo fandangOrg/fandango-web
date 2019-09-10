@@ -1,7 +1,8 @@
 ---
 title: New Fandango publications on Machine Learning
-date: 2019-09-10 6:37:00 Z
-lead: The research being done by CERTH on image manipulation detection and neural networks is already producing scientific publications.
+date: 2019-09-10 06:37:00 Z
+lead: The research being done by CERTH on image manipulation detection and neural
+  networks is already producing scientific publications.
 image: "/uploads/math-formulas.jpg"
 ---
 
