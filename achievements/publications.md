@@ -6,7 +6,6 @@ navigation_order: 3
 navigation_parent: Achievements
 ---
 
-
 {: .resources-list}
 * G. Palaiopanos, P. Stalidis, T. Semertzidis, N. Vretos, P. Daras, "[Embedding Big Data in Graph Convolutional Networks](https://doi.org/10.1109/ICE.2019.8792632)", [25th International Conference on Engineering, Technology and Innovation](http://www.ice-conference.org/) (ICE/IEEE ITMC 2019), Sophia Antipolis Innovation Park, France, 17-19 June 2019.
 
