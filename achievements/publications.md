@@ -6,6 +6,16 @@ navigation_order: 3
 navigation_parent: Achievements
 ---
 
+#### Overview
+
+{: .resources-list}
+
+* F. Nucci, M. Magaldi, L. Bevilacqua, "[FANDANGO (FAke News discovery and propagation from big Data and artificial inteliGence Operations) un approccio centrato sulla AI per contrastare la disinformazione](http://www.ital-ia.it/workshop/ai-for-media-and-entertainment)", [Ital-IA](http://www.ital-ia.it), March 2019.
+
+  > FANDANGO è un importante progetto di ricerca industriale della durata di 36 mesi, cofinanziato dalla UE. FANDANGO vuole realizzare, nell’ambito di una piattaforma orientata all’analisi dei Big Data, un insieme di strumenti di AI capaci di coadiuvare l’identificazione di notizie false o fuorvianti sulla base di indizi derivanti dall’analisi della struttura testuale della notizia, dei media ad essa associati e - ove possibile - del riscontro con fonti dati aperte e affidabili.
+  > I risultati di FANDANGO sono rivolti all’uso da parte di professionisti del settore (giornalisti) che pur non volendo delegare completamente il proprio giudizio circa la veridicità e affidabilità di una specifica notizia a sistemi totalmente automatici, sentono l’esigenza di sistemi di supporto che forniscano specifiche valutazioni circa potenziali indizi di manipolazione.
+
+#### Machine Learning
 
 {: .resources-list}
 * G. Palaiopanos, P. Stalidis, T. Semertzidis, N. Vretos, P. Daras, "[Embedding Big Data in Graph Convolutional Networks](https://doi.org/10.1109/ICE.2019.8792632)", [25th International Conference on Engineering, Technology and Innovation](http://www.ice-conference.org/) (ICE/IEEE ITMC 2019), Sophia Antipolis Innovation Park, France, 17-19 June 2019.
@@ -15,4 +25,3 @@ navigation_parent: Achievements
 * M. Angelou, V. Solachidis, N. Vretos, P. Daras, "[Graph-based Multimodal Fusion with metric learning for multimodal classification](https://doi.org/10.1016/j.patcog.2019.06.013)", Pattern Recognition, Elsevier, Volume 95, Pages 296-307, November 2019
 
   > In this paper, a graph-based, supervised classification method for multimodal data is introduced. It can be applied on data of any type consisting of any number of modalities and can also be used for the classification of datasets with missing modalities. The proposed method maps the features extracted from every modality to a space where the intrinsic structure of the multimodal data is kept. In order to map the extracted features of the different modalities into the same space and, at the same time, maintain the feature distances between similar and dissimilar modality data instances, a metric learning method is used. The proposed method has been evaluated on NUS-Wide, NTU-RGBD and AV-Letters multimodal datasets and has shown competitive results with the state-of-the-art methods in the field, while is able to cope with datasets with missing modalities.
-
