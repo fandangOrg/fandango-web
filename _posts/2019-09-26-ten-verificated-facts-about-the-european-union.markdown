@@ -1,6 +1,6 @@
 ---
 title: Ten verified facts about the European Union
-date: 2019-09-04 10:36:00 Z
+date: 2019-09-26 10:36:00 Z
 published: false
 image: "/uploads/fandango_tenfacts.png"
 image_source: Brigitte HASE | EP
