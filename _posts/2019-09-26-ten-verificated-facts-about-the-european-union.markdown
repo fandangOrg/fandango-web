@@ -1,7 +1,6 @@
 ---
 title: Ten verified facts about the European Union
 date: 2019-09-26 10:36:00 Z
-published: false
 image: "/uploads/fandango_tenfacts.png"
 image_source: Brigitte HASE | EP
 image_link: https://multimedia.europarl.europa.eu/en/european-elections-2019-counting-of-ballots-in-french-polling-station_20190522_EP-089277X_BHA-174_p#ssh
