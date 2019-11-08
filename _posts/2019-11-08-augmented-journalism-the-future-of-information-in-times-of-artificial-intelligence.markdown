@@ -12,5 +12,6 @@ Panels were set to be the perfect scenario to debate and analyze the incorporati
 
 "The Artificial Intelligence that animates Fandango aims to act as a strong ally of the press in the fight against fake news for information that is transparent, truthful and built on the basis of data”, explained Nucci. To complete the debate, there was the experience, for example, of the Spanish Agencia EFE with "Narrativa", a software that writes news pieces based on data analysis similar to the ones written by journalists. 
 
+A report by a group of experts from the London School of Economics was also presented and 
 
 
