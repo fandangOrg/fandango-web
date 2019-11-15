@@ -13,5 +13,5 @@ Panels were organized to debate and analyze the incorporation of Artificial Inte
 
 Nucci also explained that AI employed by Fandango could "act as a strong ally of the press in the fight against fake news for information that is transparent, truthful and built on the basis of data”. Spanish Agencia EFE shared their experiences with "Narrativa", a software that writes news pieces based on data analysis similar to the ones written by journalists. 
 
-A group of experts from the London School of Economics also presented and disclosed the main uses of AI in newsrooms at the moment according to a survey on more of 70 newsrooms: in gathering news pieces and large amounts of information; in distribution and publication for knowing better their readers; and for the writing. Seems like the future is not that far away.
+A group of experts from the London School of Economics also presented a report illustrating current uses of AI in newsrooms based on a survey of more than 70 newsrooms. Trends point in the direction of using AI in gathering news pieces and large amounts of information, in distribution and publication for knowing better their readers and for the writing. It seems like the future is not that far away.
 
