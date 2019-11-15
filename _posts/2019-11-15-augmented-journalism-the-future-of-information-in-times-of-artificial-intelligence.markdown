@@ -2,7 +2,7 @@
 title: |-
   Augmented Journalism: the Future of Information in Times of Artificial
   Intelligence
-date: 2019-11-08 15:05:00 Z
+date: 2019-11-15 15:05:00 Z
 published: false
 image: "/uploads/ansa_event_aumented-journalism.png"
 ---
