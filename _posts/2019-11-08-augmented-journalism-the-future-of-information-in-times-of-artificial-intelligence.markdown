@@ -1,6 +1,6 @@
 ---
 title: |-
-  Augmented journalism: the future of information in times of Artificial
+  Augmented Journalism: the Future of Information in Times of Artificial
   Intelligence
 date: 2019-11-08 15:05:00 Z
 published: false
