@@ -3,7 +3,7 @@ title: |-
   Augmented Journalism: the Future of Information in Times of Artificial
   Intelligence
 date: 2019-11-15 15:05:00 Z
-lead: Fandango is presented at a panel disccusion organized by ANSA.
+lead: Fandango was presented at a panel disccusion organized by ANSA.
 image: "/uploads/ansa_event_aumented-journalism.png"
 ---
 
