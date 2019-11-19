@@ -1,7 +1,7 @@
 ---
 title: Deliverables
 date: 2018-02-28 12:40:00 Z
-permalink: "/achievements/deliverables/"
+permalink: "/the-project/deliverables/"
 navigation_order: 5
 navigation_parent: The Project
 ---
