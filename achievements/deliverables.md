@@ -13,5 +13,5 @@ navigation_parent: Achievements
 prototypes
 * D4.2 Multilingual text analytics for misleading messages detection prototypes
 * D4.3 Copy-move detection on audio-visual content prototypes
-
+* D4.4 Source Credibility Scoring, Profiling and Social Graph Analytics Prototypes
 * D7.2 Dissemination Plan
