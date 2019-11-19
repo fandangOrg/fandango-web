@@ -1,7 +1,9 @@
 ---
 title: Ten verified facts about the European Union
-date: 2019-09-04 10:36:00 Z
-published: false
+date: 2019-09-26 10:36:00 Z
+lead: We hope we don't have to keep fact checking the same misleading information
+  about the European Union but, in case we need to, here you will find ten facts already
+  verified.
 image: "/uploads/fandango_tenfacts.png"
 image_source: Brigitte HASE | EP
 image_link: https://multimedia.europarl.europa.eu/en/european-elections-2019-counting-of-ballots-in-french-polling-station_20190522_EP-089277X_BHA-174_p#ssh
