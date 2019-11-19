@@ -8,10 +8,19 @@ navigation_parent: Achievements
 
 ### WP1
 
+* D1.1 Management Website
+
+
 * D3.1 Data Model and Components
+
+
 * D4.1 Spatio-temporal analytics and out of context fakeness markers
 prototypes
 * D4.2 Multilingual text analytics for misleading messages detection prototypes
 * D4.3 Copy-move detection on audio-visual content prototypes
 * D4.4 Source Credibility Scoring, Profiling and Social Graph Analytics Prototypes
+* D4.5 Machine learnable scoring for fake news decision making prototypes
+
+* D5.1 Reference Architecture description
+
 * D7.2 Dissemination Plan
