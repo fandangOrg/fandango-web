@@ -8,6 +8,10 @@ navigation_parent: Achievements
 
 ### WP1
 
-* D1.1 Management Website 
-* D1.2 Data Management Plan 
-* D1.3 Quality Plan
+* D3.1 Data Model and Components
+* D4.1 Spatio-temporal analytics and out of context fakeness markers
+prototypes
+* D4.2 Multilingual text analytics for misleading messages detection prototypes
+* D4.3 Copy-move detection on audio-visual content prototypes
+
+* D7.2 Dissemination Plan
