@@ -22,5 +22,9 @@ prototypes
 * D4.5 Machine learnable scoring for fake news decision making prototypes
 
 * D5.1 Reference Architecture description
+* D5.2 System and User Interfaces prototypes
 
+* D6.1 Pilots execution and evaluation plans
+
+* D7.1 Development of project website
 * D7.2 Dissemination Plan
