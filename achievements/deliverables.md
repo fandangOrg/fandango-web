@@ -10,7 +10,10 @@ navigation_parent: Achievements
 
 * D1.1 Management Website
 * D1.2 Data Management Plan
+* D1.3 Quality Plan
+* D1.4 1st Interim Periodic Report
 
+* D2.1 Data lake integration plan
 
 * D3.1 Data Model and Components
 
@@ -33,3 +36,4 @@ prototypes
 * D8.1 Market Analysis and preliminary business requirements
 
 * D9.1 H - Requirement No. 1
+* D9.2 POPD - Requirement No. 2
