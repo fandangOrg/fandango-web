@@ -8,6 +8,6 @@ navigation_parent: Achievements
 
 ### WP1
 
-D1.1 Management Website | Download |
-D1.2 Data Management Plan | Download |
-D1.3 Quality Plan | Download |
+D1.1 Management Website 
+D1.2 Data Management Plan 
+D1.3 Quality Plan
