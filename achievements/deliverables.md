@@ -9,6 +9,7 @@ navigation_parent: Achievements
 ### WP1
 
 * D1.1 Management Website
+* D1.2 Data Management Plan
 
 
 * D3.1 Data Model and Components
@@ -28,3 +29,7 @@ prototypes
 
 * D7.1 Development of project website
 * D7.2 Dissemination Plan
+
+* D8.1 Market Analysis and preliminary business requirements
+
+* D9.1 H - Requirement No. 1
