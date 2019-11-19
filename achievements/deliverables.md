@@ -9,9 +9,9 @@ navigation_parent: Achievements
 ### WP1
 
 * D1.1 [Management Website](https://fandango-project.eu/deliverables/D1.1%20Management%20Website.pdf)
-* D1.2 Data Management Plan
-* D1.3 Quality Plan
-* D1.4 1st Interim Periodic Report
+* D1.2 [Data Management Plan](https://fandango-project.eu/deliverables/D1.2%20Data%20Management%20Plan.pdf)
+* D1.3 [Quality Plan](https://fandango-project.eu/deliverables/D1.3%20Quality%20Plan.pdf)
+* D1.4 [1st Interim Periodic Report](https://fandango-project.eu/deliverables/D1.4%201st%20Interim%20Periodic%20Report.pdf)
 
 ### WP2
 
