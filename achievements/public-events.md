@@ -38,6 +38,14 @@ navigation_parent: Achievements
 
 <p>&nbsp;</p>
 
+[AI for media and entertainment](https://fandango-project.eu/news/2019/06/03/fandango-is-presented-at-ital-ia/). March 2019, Rome. Presentation and case study about Fandango at [Ital-IA](http://www.ital-ia.it/), the first national conference in Italy about Artificial Intelligence.
+
+<center>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Fandango was presented at the first national conference in Italy about Artificial Intelligence (<a href="https://twitter.com/2019Ital?ref_src=twsrc%5Etfw">@2019Ital</a>) under the topic &quot;AI for media and entertainment&quot;. The presentation and a case study is available here: <a href="https://t.co/49UahKAejq">https://t.co/49UahKAejq</a><a href="https://twitter.com/hashtag/misinformation?src=hash&amp;ref_src=twsrc%5Etfw">#misinformation</a> <a href="https://twitter.com/hashtag/ArtificialIntelligence?src=hash&amp;ref_src=twsrc%5Etfw">#ArtificialIntelligence</a></p>&mdash; Fandango Project (@fandango_eu) <a href="https://twitter.com/fandango_eu/status/1135506982008500225?ref_src=twsrc%5Etfw">June 3, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</center>
+
+<p>&nbsp;</p>
+
 [OI2 2018](http://oi2media.es/index.php/jornadas-2018/), November 2018. Roundtable on new applications of Artificial Intelligence in Journalism. [Video available](http://www.rtve.es/alacarta/videos/oi2/oi2-nuevas-aplicaciones-perspectivas/4851457/).
 
   <center>
