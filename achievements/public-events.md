@@ -46,6 +46,14 @@ navigation_parent: Achievements
 
 <p>&nbsp;</p>
 
+[International Journalism Festival](https://www.journalismfestival.com). Perugia. April 2019. The biggest annual media event in Europe.
+
+<center>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We&#39;re at <a href="https://twitter.com/hashtag/ifj19?src=hash&amp;ref_src=twsrc%5Etfw">#ifj19</a> listening to &quot;Deepfakes, shallow fakes and real deal journalism&quot; panel. Keep up with us to know what speakers are talking about! <a href="https://t.co/lgzBmW5iDc">pic.twitter.com/lgzBmW5iDc</a></p>&mdash; Fandango Project (@fandango_eu) <a href="https://twitter.com/fandango_eu/status/1113746366210215936?ref_src=twsrc%5Etfw">April 4, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</center>
+
+<p>&nbsp;</p>
+
 [Ital-IA 2019](http://www.ital-ia.it/workshop/ai-for-media-and-entertainment), March 2019. Presentation on Fandango, "un approccio centrato sulla AI per contrastare la disinformazione".
 
   <center>
