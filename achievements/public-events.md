@@ -6,7 +6,7 @@ navigation_order: 2
 navigation_parent: Achievements
 ---
 
-[Augmented Journalism: the Future of Information in Times of Artificial Intelligence](https://fandango-project.eu/news/2019/11/15/augmented-journalism-the-future-of-information-in-times-of-artificial-intelligence/). Event organized by the Italian news agency ANSA, a member of the Fandango consortium.
+[Augmented Journalism: the Future of Information in Times of Artificial Intelligence](https://fandango-project.eu/news/2019/11/15/augmented-journalism-the-future-of-information-in-times-of-artificial-intelligence/). October 2019. Event organized by the Italian news agency ANSA, a member of the Fandango consortium.
 
 <center>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Augmented Journalism: the Future of Information in times of <a href="https://twitter.com/hashtag/ArtificialIntelligence?src=hash&amp;ref_src=twsrc%5Etfw">#ArtificialIntelligence</a> 🔽<a href="https://t.co/xjzS3Oi9RP">https://t.co/xjzS3Oi9RP</a><a href="https://twitter.com/fsnucci?ref_src=twsrc%5Etfw">@fsnucci</a> from <a href="https://twitter.com/hashtag/EngineeringSpa?src=hash&amp;ref_src=twsrc%5Etfw">#EngineeringSpa</a> presented <a href="https://twitter.com/fandango_eu?ref_src=twsrc%5Etfw">@fandango_eu</a> recently at a panel disccusion organized by <a href="https://twitter.com/Agenzia_Ansa?ref_src=twsrc%5Etfw">@Agenzia_Ansa</a>. <a href="https://twitter.com/hashtag/FakeNews?src=hash&amp;ref_src=twsrc%5Etfw">#FakeNews</a> <a href="https://t.co/qFehcL9Bij">pic.twitter.com/qFehcL9Bij</a></p>&mdash; Fandango Project (@fandango_eu) <a href="https://twitter.com/fandango_eu/status/1196723252657307648?ref_src=twsrc%5Etfw">November 19, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -14,8 +14,13 @@ navigation_parent: Achievements
 
 <p>&nbsp;</p>
 
-[Global Investigative Journalism Conference 2019](https://gijc2019.org) in Hamburg
+[Global Investigative Journalism Conference 2019](https://gijc2019.org) in Hamburg. September 2019. The GIJC is a giant training conference, with practical panels and workshops on the latest investigative techniques, data analysis, cross-border collaboration, and more by the best journalists in the field.
 
+<center>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We&#39;re in the Verification &amp; Fact-checking session here at <a href="https://twitter.com/hashtag/GIJC19?src=hash&amp;ref_src=twsrc%5Etfw">#GIJC19</a> listening to <a href="https://twitter.com/teyitorg?ref_src=twsrc%5Etfw">@teyitorg</a>, a fact-checking organization from Turkey. <a href="https://t.co/YLgufPTdeX">pic.twitter.com/YLgufPTdeX</a></p>&mdash; Fandango Project (@fandango_eu) <a href="https://twitter.com/fandango_eu/status/1177153299398746114?ref_src=twsrc%5Etfw">September 26, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</center>
+
+<p>&nbsp;</p>
 
 [OI2 2018](http://oi2media.es/index.php/jornadas-2018/), November 2018. Roundtable on new applications of Artificial Intelligence in Journalism. [Video available](http://www.rtve.es/alacarta/videos/oi2/oi2-nuevas-aplicaciones-perspectivas/4851457/).
 
