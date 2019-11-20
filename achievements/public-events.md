@@ -22,6 +22,15 @@ navigation_parent: Achievements
 
 <p>&nbsp;</p>
 
+[Sixth Global Fact-Checking Summit](https://www.globalfact6.com/about) in Capetown, June 2019. 6th annual conference of the International Fact-Checking Network.
+
+<center>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We are in Cape Town at <a href="https://twitter.com/hashtag/GlobalFact6?src=hash&amp;ref_src=twsrc%5Etfw">#GlobalFact6</a> to know about last fact-checking trends and to talk with potential users of <a href="https://twitter.com/fandango_eu?ref_src=twsrc%5Etfw">@fandango_eu</a>. <br><br>If you want to follow the workshops, here is the link to the streaming:<a href="https://t.co/m4oN99qTQR">https://t.co/m4oN99qTQR</a> <a href="https://t.co/ScztKS35tC">pic.twitter.com/ScztKS35tC</a></p>&mdash; Fandango Project (@fandango_eu) <a href="https://twitter.com/fandango_eu/status/1141340407407792128?ref_src=twsrc%5Etfw">June 19, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</center>
+
+<p>&nbsp;</p>
+
+
 [OI2 2018](http://oi2media.es/index.php/jornadas-2018/), November 2018. Roundtable on new applications of Artificial Intelligence in Journalism. [Video available](http://www.rtve.es/alacarta/videos/oi2/oi2-nuevas-aplicaciones-perspectivas/4851457/).
 
   <center>
