@@ -30,7 +30,7 @@ navigation_parent: Achievements
 
 <p>&nbsp;</p>
 
- Artificial Intelligence, Syntactic, Semantic and Multimedia Analysis. June 2019. Organized by Livetech in Rome.
+**Artificial Intelligence, Syntactic, Semantic and Multimedia Analysis against Fake News**. June 2019. Organized by Livetech in Rome.
 
 <center>
 <blockquote class="twitter-tweet"><p lang="it" dir="ltr"><a href="https://twitter.com/hashtag/LiveTech?src=hash&amp;ref_src=twsrc%5Etfw">#LiveTech</a> è lieta di ospitare, nella sua nuova sede di <a href="https://twitter.com/hashtag/Roma?src=hash&amp;ref_src=twsrc%5Etfw">#Roma</a>, il <a href="https://twitter.com/fandango_eu?ref_src=twsrc%5Etfw">@fandango_eu</a> meeting. <a href="https://twitter.com/hashtag/ArtificialIntelligence?src=hash&amp;ref_src=twsrc%5Etfw">#ArtificialIntelligence</a>, analisi sintattica, semantica e multimediale collaborano per creare il corretto <a href="https://twitter.com/hashtag/antivirus?src=hash&amp;ref_src=twsrc%5Etfw">#antivirus</a> contro le <a href="https://twitter.com/hashtag/fakenews?src=hash&amp;ref_src=twsrc%5Etfw">#fakenews</a>. <a href="https://t.co/jHAPO7Vu4E">pic.twitter.com/jHAPO7Vu4E</a></p>&mdash; Chiara Russo (@chiararusso20) <a href="https://twitter.com/chiararusso20/status/1139189646720733184?ref_src=twsrc%5Etfw">June 13, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
