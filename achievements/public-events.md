@@ -44,6 +44,8 @@ navigation_parent: Achievements
   <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">How to tackle <a href="https://twitter.com/hashtag/disinformation?src=hash&amp;ref_src=twsrc%5Etfw">#disinformation</a>? Here some inputs from <a href="https://twitter.com/fandango_eu?ref_src=twsrc%5Etfw">@fandango_eu</a> at the <a href="https://twitter.com/hashtag/NemSummit2019?src=hash&amp;ref_src=twsrc%5Etfw">#NemSummit2019</a> <a href="https://twitter.com/NEM_Initiative?ref_src=twsrc%5Etfw">@NEM_Initiative</a> <a href="https://twitter.com/EngineeringSpa?ref_src=twsrc%5Etfw">@EngineeringSpa</a> <a href="https://twitter.com/hashtag/media?src=hash&amp;ref_src=twsrc%5Etfw">#media</a> <a href="https://twitter.com/hashtag/fakenews?src=hash&amp;ref_src=twsrc%5Etfw">#fakenews</a> <a href="https://twitter.com/SOMAObservatory?ref_src=twsrc%5Etfw">@SOMAObservatory</a> <a href="https://t.co/oT40y00KGj">pic.twitter.com/oT40y00KGj</a></p>&mdash; simona de rosa (@simonaderosa2) <a href="https://twitter.com/simonaderosa2/status/1131466156714418176?ref_src=twsrc%5Etfw">May 23, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
   </center>
 
+<p>&nbsp;</p>
+
 [Ital-IA 2019](http://www.ital-ia.it/workshop/ai-for-media-and-entertainment), March 2019. Presentation on Fandango, "un approccio centrato sulla AI per contrastare la disinformazione".
 
   <center>
