@@ -14,6 +14,9 @@ navigation_parent: Achievements
 
 <p>&nbsp;</p>
 
+[Global Investigative Journalism Conference 2019](https://gijc2019.org) in Hamburg
+
+
 [OI2 2018](http://oi2media.es/index.php/jornadas-2018/), November 2018. Roundtable on new applications of Artificial Intelligence in Journalism. [Video available](http://www.rtve.es/alacarta/videos/oi2/oi2-nuevas-aplicaciones-perspectivas/4851457/).
 
   <center>
