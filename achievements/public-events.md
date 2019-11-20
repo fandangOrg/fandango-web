@@ -8,7 +8,9 @@ navigation_parent: Achievements
 
 [Augmented Journalism: the Future of Information in Times of Artificial Intelligence].Event organized by the Italian news agency ANSA, a member of the Fandango consortium. [More information](https://fandango-project.eu/news/2019/11/15/augmented-journalism-the-future-of-information-in-times-of-artificial-intelligence/).
 
+<center>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Augmented Journalism: the Future of Information in times of <a href="https://twitter.com/hashtag/ArtificialIntelligence?src=hash&amp;ref_src=twsrc%5Etfw">#ArtificialIntelligence</a> 🔽<a href="https://t.co/xjzS3Oi9RP">https://t.co/xjzS3Oi9RP</a><a href="https://twitter.com/fsnucci?ref_src=twsrc%5Etfw">@fsnucci</a> from <a href="https://twitter.com/hashtag/EngineeringSpa?src=hash&amp;ref_src=twsrc%5Etfw">#EngineeringSpa</a> presented <a href="https://twitter.com/fandango_eu?ref_src=twsrc%5Etfw">@fandango_eu</a> recently at a panel disccusion organized by <a href="https://twitter.com/Agenzia_Ansa?ref_src=twsrc%5Etfw">@Agenzia_Ansa</a>. <a href="https://twitter.com/hashtag/FakeNews?src=hash&amp;ref_src=twsrc%5Etfw">#FakeNews</a> <a href="https://t.co/qFehcL9Bij">pic.twitter.com/qFehcL9Bij</a></p>&mdash; Fandango Project (@fandango_eu) <a href="https://twitter.com/fandango_eu/status/1196723252657307648?ref_src=twsrc%5Etfw">November 19, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</center>
 
 [OI2 2018](http://oi2media.es/index.php/jornadas-2018/), November 2018. Roundtable on new applications of Artificial Intelligence in Journalism. [Video available](http://www.rtve.es/alacarta/videos/oi2/oi2-nuevas-aplicaciones-perspectivas/4851457/).
 
