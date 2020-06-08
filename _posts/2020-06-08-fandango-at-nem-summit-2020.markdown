@@ -1,7 +1,7 @@
 ---
 title: Fandango at NEM Summit 2020
 date: 2020-06-08 16:34:00 Z
-author: UPM will present Fandango's multi-modal solution for analysing large volumes
+lead: UPM will present Fandango's multi-modal solution for analysing large volumes
   of media content.
 image: "/uploads/Captura%20de%20pantalla%202020-06-08%20a%20las%2018.39.32.png"
 ---
