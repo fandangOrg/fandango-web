@@ -11,7 +11,7 @@ navigation_parent: The Project
 * D1.1 [Management Website](https://fandango-project.eu/deliverables/D1.1%20Management%20Website.pdf)
 * D1.2 [Data Management Plan](https://fandango-project.eu/deliverables/D1.2%20Data%20Management%20Plan.pdf)
 * D1.3 [Quality Plan](https://fandango-project.eu/deliverables/D1.3%20Quality%20Plan.pdf)
-* D1.4 [1st Interim Periodic Report](https://fandango-project.eu/deliverables/D1.4%201st%20Interim%20Periodic%20Report.pdf)
+* D1.4 1st Interim Periodic Report (internal)
 
 ### WP2
 
@@ -23,6 +23,9 @@ navigation_parent: The Project
 ### WP3
 
 * D3.1 [Data Model and Components](https://fandango-project.eu/deliverables/D3.1%20Data%20Model%20and%20components.pdf)
+* D3.2 [Lightweight data shipping components development](https://fandango-project.eu/deliverables/D3.2%20Lightweight%20data%20shipping%20components%20development.pdf)
+* D3.3 [Preprocessing set of tools](https://fandango-project.eu/deliverables/D3.3%20Preprocessing%20set%20of%20tools.pdf)
+* D3.4 [Ground truth development for FANDANGO system assessment](https://fandango-project.eu/deliverables/D3.4%20Ground%20truth%20development%20for%20FANDANGO%20system%20assessment.pdf)
 
 ### WP4
 
@@ -50,6 +53,7 @@ prototypes](https://fandango-project.eu/deliverables/D4.1%20Spatio-temporal%20an
 ### WP8
 
 * D8.1 [Market Analysis and preliminary business requirements](https://fandango-project.eu/deliverables/D8.1%20Market%20Analysis%20and%20preliminary%20business%20requirements.pdf)
+* D8.2 [Application areas business requirements and preliminary exploitation plan](https://fandango-project.eu/deliverables/D8.2%20Application%20areas%20business%20requirements%20and%20preliminary%20exploitation%20plan.pdf)
 
 ### WP9
 
