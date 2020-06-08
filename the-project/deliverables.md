@@ -26,7 +26,7 @@ navigation_parent: The Project
 * D3.2 [Lightweight data shipping components development](https://fandango-project.eu/deliverables/D3.2%20Lightweight%20data%20shipping%20components%20development.pdf)
 * D3.3 [Preprocessing set of tools](https://fandango-project.eu/deliverables/D3.3%20Preprocessing%20set%20of%20tools.pdf)
 * D3.4 [Ground truth development for FANDANGO system assessment](https://fandango-project.eu/deliverables/D3.4%20Ground%20truth%20development%20for%20FANDANGO%20system%20assessment.pdf)
-
+ 
 ### WP4
 
 * D4.1 [Spatio-temporal analytics and out of context fakeness markers
