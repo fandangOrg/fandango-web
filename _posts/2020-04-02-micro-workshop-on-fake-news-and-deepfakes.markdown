@@ -1,7 +1,7 @@
 ---
 title: Micro workshop on Fake News and Deepfakes
 date: 2020-04-02 16:12:00 Z
-lead: VRT presentes Fandango at event organized by EBU’s AI and Data Initiative (AIDI).
+lead: VRT presented Fandango at event organized by EBU’s AI and Data Initiative (AIDI).
 image: "/uploads/deep_fakes_833x469%20(1).png"
 ---
 
