@@ -11,7 +11,7 @@ Project partner Universidad Politécnica de Madrid (UPM) presented an article at
 
 The article describes how Fandango involves data ingestion, processing and analysis to extract relevant features and serve as a means of verification of multimedia contents. The modular ecosystem treats the information from a modality perspective (i.e. text, images, videos, meta-data) and offers both single and global evaluation of the content’s fakeness probability. Fandango is currently testing this system in relevant topic scenarios including migration, climate change, European affairs and the Covid crisis.
 
-![NEM_SUMMIT_2020.png](/uploads/NEM_SUMMIT_2020.png)
+![NEM_SUMMIT_2020-309409.png](/uploads/NEM_SUMMIT_2020-309409.png)
 
 Besides, UPM presented this article during the conference. This is the presentation:
 
