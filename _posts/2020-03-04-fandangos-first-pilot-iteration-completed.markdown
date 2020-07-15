@@ -32,3 +32,5 @@ Both without Fandango and with Fandango, the users gathered a set of KPIs relate
 After the first pilot iteration, results were promising for Fandango as support tool during the news verification process. Nevertheless users suggested usability improvements and better clarifications to understand better how scores of text linguistic characteristics and image and video analysis are calculated. Also a broader time frame for pre-ingested articles, claims and open data, so that information returned by the platform would be more relevant for the user. 
 
 This feedback and the pilot results are the basis under which project partners are currently improving the quality of the implementation of Fandango ahead of the second pilot iteration, in which disinformation around the COVID-19 pandemic will be added as a new scenario.
+
+For more information check out our [Pilot Execution and Evaluation Plan](https://fandango-project.eu/deliverables/D6.1%20Pilots%20execution%20and%20evaluation%20plans.pdf)
