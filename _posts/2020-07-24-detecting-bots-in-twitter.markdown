@@ -14,7 +14,7 @@ Fandango's consortium partner Visual telecommunications applications research gr
   
 *As an example of this, in 2019, Twitter had to remove more than 26 thousand of accounts since they were suspicious of spreading misinformation and/or non-appropriate content. So then, the question is, how AI may support end-users in the task of detecting suspicious accounts?*
   
-To solve this first question, we need to first understand how a bot account and a normal account behaves and then try to find some descriptors that may distinguish both categories; this is what is call modelling in AI. Thus, the goal consists in creating a model or a function capable of properly separating these two classes using as input a collection of features. 
+*To solve this first question, we need to first understand how a bot account and a normal account behaves and then try to find some descriptors that may distinguish both categories; this is what is call modelling in AI. Thus, the goal consists in creating a model or a function capable of properly separating these two classes using as input a collection of features. 
 Focussing on Twitter, procedure of detecting bot accounts starts with a first glance or impression of some features (or combination of features) that are provided via the Twitter API or that can be computed using such data.*
 
 *Figure X shows a comparative distribution diagram regarding the popularity metric, which is computed as a non-linear combination of the number of followers and friends that a given account has. As one may observe, both distributions contain different parameters in terms of mean (µ) and standard deviation (σ).* 
