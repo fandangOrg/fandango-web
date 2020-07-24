@@ -8,7 +8,7 @@ image: "/uploads/4518788990_5ace4f5637.jpg"
 
 "Online bots are spreading disinformation on the coronavirus crisis across Europe", [the European Comissin alerts](https://ec.europa.eu/info/live-work-travel-eu/health/coronavirus-response/fighting-disinformation_en#dont-be-fooled-by-bots). "Some of the misleading information, massively spread via fake social media accounts including ‘bots’ that run automated tasks on the internet and social media, can potentially be very harmful to you and your loved ones".
 
-In order to help tackle this issue, Fandango's consortium partner Visual telecommunications applications research group ([GATV](http://www.gatv.ssr.upm.es/?lang=en)) at Universidad Politécnica de Madrid is currently working on a model to accurately predict whether a Twitter account is bot or not. 
+In order to help tackle this issue, Fandango's consortium partner Visual telecommunications applications research group ([GATV](http://www.gatv.ssr.upm.es/?lang=en)) at Universidad Politécnica de Madrid is currently working on **a model to accurately predict whether a Twitter account is bot or not**. 
 
 **David Martín Gutiérrez**, Machine/Deep Learning Researcher at GATV, shares this research:
 
