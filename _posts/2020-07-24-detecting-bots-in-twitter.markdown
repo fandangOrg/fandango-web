@@ -37,3 +37,4 @@ Focussing on Twitter, procedure of detecting bot accounts starts with a first gl
 
 *Consequently, we have a good representation of Twitter accounts as a result of a combination of features that is provided by the trained model. Using this new representation, we can classify twitter accounts using the probabilities via the model itself, or we can just generate the embeddings of the account and search for similar previous annotated accounts in our large database to make the final decision. This process can be performed via efficient Information Retrieval algorithms such as approximations of the Nearest Neighbours algorithms such as Local Sensing Hashing.*
 
+**David Martín Gutiérrez**. Data Scientist | Machine/Deep Learning Researcher at Grupo de Aplicación de Telecomunicaciones Visuales (GATV) at UPM.
