@@ -8,7 +8,9 @@ image: "/uploads/4518788990_5ace4f5637.jpg"
 
 "Online bots are spreading disinformation on the coronavirus crisis across Europe", [the European Comissin alerts](https://ec.europa.eu/info/live-work-travel-eu/health/coronavirus-response/fighting-disinformation_en#dont-be-fooled-by-bots). "Some of the misleading information, massively spread via fake social media accounts including ‘bots’ that run automated tasks on the internet and social media, can potentially be very harmful to you and your loved ones".
 
-In order to help tackle this issue, Fandango's consortium partner Visual telecommunications applications research group ([GATV](http://www.gatv.ssr.upm.es/?lang=en)) at Universidad Politécnica de Madrid is currently working on a model to accurately predict whether a Twitter account is bot or not. In their own words:
+In order to help tackle this issue, Fandango's consortium partner Visual telecommunications applications research group ([GATV](http://www.gatv.ssr.upm.es/?lang=en)) at Universidad Politécnica de Madrid is currently working on a model to accurately predict whether a Twitter account is bot or not. 
+
+**David Martín Gutiérrez**, Machine/Deep Learning Researcher at GATV, shares this research:
 
 *During the last years, the exponential growth of spreading misinformation throughout the social media platforms such as Twitter, Facebook or Instagram have fostered applied research in order to detect and consequently prevent the intrusion of these kind of content in such networks.  Thus, it is clear that Artificial Intelligence (AI) has a crucial role in this topic in order to support these platforms in order to automatically notify or restrict the access to those accounts that look suspicious according to a certain set of descriptors or features.*
   
@@ -37,4 +39,4 @@ Focussing on Twitter, procedure of detecting bot accounts starts with a first gl
 
 *Consequently, we have a good representation of Twitter accounts as a result of a combination of features that is provided by the trained model. Using this new representation, we can classify twitter accounts using the probabilities via the model itself, or we can just generate the embeddings of the account and search for similar previous annotated accounts in our large database to make the final decision. This process can be performed via efficient Information Retrieval algorithms such as approximations of the Nearest Neighbours algorithms such as Local Sensing Hashing.*
 
-**David Martín Gutiérrez**. Data Scientist | Machine/Deep Learning Researcher at Grupo de Aplicación de Telecomunicaciones Visuales (GATV) at UPM.
+**David Martín Gutiérrez**. Data Scientist. Machine/Deep Learning Researcher at Grupo de Aplicación de Telecomunicaciones Visuales (GATV) at UPM.
