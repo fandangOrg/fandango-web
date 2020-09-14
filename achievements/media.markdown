@@ -14,7 +14,7 @@ navigation_parent: Achievements
 
 * [Fandango, AI con DNA italiano contro le fake news](https://www.tomshw.it/altro/fandango-ai-con-dna-italiano-contro-le-fake-news/) [Tom's Hardware]
 
-* [Informazione sicura: caccia alle fake news con il progetto Fandango](https://www.ilmessaggero.it/tecnologia/fandango_fake_news_informazione_live_tech-4131062.html) [Il Messagero]
+* [Informazione sicura: caccia alle fake news con il progetto Fandango](https://www.ilmessaggero.it/tecnologia/fandango_fake_news_informazione_live_tech-4131062.html) [Il Messagero] 
 
 * [Can AI change the game for fake news?](https://www.icwa.org/can-ai-change-the-game-for-fake-news/) [ICWA]
 
