@@ -2,6 +2,7 @@
 title: What is Fandango?
 date: 2018-02-28 12:40:00 Z
 permalink: "/the-project/what-is-fandango/"
+position: 4
 navigation_order: 0
 navigation_parent: The Project
 ---
