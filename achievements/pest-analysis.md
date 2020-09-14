@@ -2,6 +2,7 @@
 title: PEST analysis
 date: 2018-02-28 12:40:00 Z
 permalink: "/achievements/pest-analysis/"
+position: 1
 navigation_order: 1
 navigation_parent: Achievements
 ---

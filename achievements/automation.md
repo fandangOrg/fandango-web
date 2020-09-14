@@ -2,6 +2,7 @@
 title: Automating fake news detection and fact-checking
 date: 2018-02-28 12:40:00 Z
 permalink: "/achievements/automation/"
+position: 0
 navigation_order: 0
 navigation_parent: Achievements
 ---
