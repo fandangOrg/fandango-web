@@ -3,7 +3,7 @@ title: Other resources
 permalink: "/resources/"
 position: 4
 is_in_navigation: true
-navigation_order: 3
+navigation_order: 6
 layout: page
 ---
 
