@@ -1,6 +1,7 @@
 ---
 title: Resources
 permalink: "/resources/"
+position: 4
 is_in_navigation: true
 navigation_order: 3
 layout: page

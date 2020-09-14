@@ -2,6 +2,7 @@
 title: Partners
 date: 2018-02-28 12:40:00 Z
 permalink: "/partners/"
+position: 1
 is_in_navigation: true
 navigation_order: 1
 ---

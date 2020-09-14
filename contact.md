@@ -2,6 +2,7 @@
 title: Contact
 date: 2018-02-28 12:44:00 Z
 permalink: "/contact/"
+position: 7
 is_in_navigation: true
 navigation_order: 6
 ---

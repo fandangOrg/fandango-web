@@ -2,6 +2,7 @@
 title: News
 date: 2018-02-28 12:44:00 Z
 permalink: "/news/"
+position: 2
 is_in_navigation: true
 navigation_order: 4
 regenerate: true
