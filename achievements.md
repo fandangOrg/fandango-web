@@ -7,3 +7,7 @@ is_in_navigation: true
 navigation_order: 2
 ---
 
+{: .project-list}
+- ### [Public events and presentations](/achievements/public-events/)
+- ### [Publications](/achievements/technical-approach/)
+- ### [In the media](/achievements/ambition/)
