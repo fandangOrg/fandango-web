@@ -3,7 +3,7 @@ title: Stakeholders
 date: 2018-02-28 12:44:00 Z
 permalink: "/stakeholders/"
 position: 6
-is_in_navigation: true
+is_in_navigation: false
 navigation_order: 5
 ---
 
