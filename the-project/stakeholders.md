@@ -5,6 +5,8 @@ permalink: "/stakeholders/"
 position: 6
 is_in_navigation: false
 navigation_order: 5
+navigation_parent:
+- The Project
 ---
 
 We have identified five target audiences as potential users of our research and tools:
