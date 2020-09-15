@@ -1,5 +1,5 @@
 ---
-title: Public events and presentations
+title: Events and presentations
 date: 2018-02-28 12:40:00 Z
 permalink: "/achievements/public-events/"
 position: 2
