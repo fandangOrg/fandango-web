@@ -1,5 +1,5 @@
 ---
-title: More resources
+title: Resources
 permalink: "/resources/"
 position: 4
 is_in_navigation: true
