@@ -13,6 +13,7 @@ navigation_parent: The Project
 * D1.2 [Data Management Plan](https://fandango-project.eu/deliverables/D1.2%20Data%20Management%20Plan.pdf)
 * D1.3 [Quality Plan](https://fandango-project.eu/deliverables/D1.3%20Quality%20Plan.pdf)
 * D1.4 1st Interim Periodic Report (internal)
+* D1.5 2nd Interim Periodic Report (internal)
 
 ### WP2
 
@@ -41,10 +42,13 @@ prototypes](https://fandango-project.eu/deliverables/D4.1%20Spatio-temporal%20an
 
 * D5.1 [Reference Architecture description](https://fandango-project.eu/deliverables/D5.1%20Reference%20Architecture%20description.pdf)
 * D5.2 [System and User Interfaces prototypes](https://fandango-project.eu/deliverables/D5.2%20System%20and%20User%20Interfaces%20prototypes.pdf)
+* D5.3 [Platform setup defining process](https://fandango-project.eu/deliverables/D5.3%20Platform%20setup%20defining%20process.pdf)
 
 ### WP6
 
 * D6.1 [Pilots execution and evaluation plans](https://fandango-project.eu/deliverables/D6.1%20Pilots%20execution%20and%20evaluation%20plans.pdf)
+* D6.2 [First iteration piloting and validation report](https://fandango-project.eu/deliverables/D6.2%20First%20iteration%20piloting%20and%20validation%20report.pdf)
+
 
 ### WP7
 
