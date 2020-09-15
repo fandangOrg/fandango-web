@@ -7,15 +7,6 @@ navigation_order: 1
 navigation_parent: Achievements
 ---
 
-#### Overview
-
-{: .resources-list}
-
-* F. Nucci, M. Magaldi, L. Bevilacqua, "[FANDANGO (FAke News discovery and propagation from big Data and artificial inteliGence Operations) un approccio centrato sulla AI per contrastare la disinformazione](http://www.ital-ia.it/workshop/ai-for-media-and-entertainment)", [Ital-IA](http://www.ital-ia.it), March 2019.
-
-  > FANDANGO è un importante progetto di ricerca industriale della durata di 36 mesi, cofinanziato dalla UE. FANDANGO vuole realizzare, nell’ambito di una piattaforma orientata all’analisi dei Big Data, un insieme di strumenti di AI capaci di coadiuvare l’identificazione di notizie false o fuorvianti sulla base di indizi derivanti dall’analisi della struttura testuale della notizia, dei media ad essa associati e - ove possibile - del riscontro con fonti dati aperte e affidabili.
-  > I risultati di FANDANGO sono rivolti all’uso da parte di professionisti del settore (giornalisti) che pur non volendo delegare completamente il proprio giudizio circa la veridicità e affidabilità di una specifica notizia a sistemi totalmente automatici, sentono l’esigenza di sistemi di supporto che forniscano specifiche valutazioni circa potenziali indizi di manipolazione.
-
 #### Machine Learning
 
 {: .resources-list}
@@ -30,3 +21,13 @@ navigation_parent: Achievements
 * D. Martín-Gutiérrez, G. Hernández-Peñaloza, J.M. Menéndez, F. Álvarez, "[A Multi-Modal approach for FAke News discovery and propagation from big Data ANalysis and artificial inteliGence Operations](https://nem-initiative.org/wp-content/uploads/2020/07/1-5-a_multimodal_approach_for_fake_news_discovery_and_propagation.pdf)", NEM Summit 2020, Research Article, June 2020.
 
   > The analysis of data collected from diverse sources such as news, claims, open data and media can provide valuable insights for early detection and propagation traceability of events related to fake news. This article describes a novel system that involves data ingestion, processing and analysis to extract relevant features and serve as a means of verification of multimedia contents. The modular ecosystem treats the information from a modality perspective (i.e. text, images, videos, meta-data) and offers both single and global evaluation of the content’s trustworthiness probability. The system is being implemented and tested in relevant topic scenarios including migration, climate change and Europe.
+
+#### Overview
+
+{: .resources-list}
+
+* F. Nucci, M. Magaldi, L. Bevilacqua, "[FANDANGO (FAke News discovery and propagation from big Data and artificial inteliGence Operations) un approccio centrato sulla AI per contrastare la disinformazione](http://www.ital-ia.it/workshop/ai-for-media-and-entertainment)", [Ital-IA](http://www.ital-ia.it), March 2019.
+
+  > FANDANGO è un importante progetto di ricerca industriale della durata di 36 mesi, cofinanziato dalla UE. FANDANGO vuole realizzare, nell’ambito di una piattaforma orientata all’analisi dei Big Data, un insieme di strumenti di AI capaci di coadiuvare l’identificazione di notizie false o fuorvianti sulla base di indizi derivanti dall’analisi della struttura testuale della notizia, dei media ad essa associati e - ove possibile - del riscontro con fonti dati aperte e affidabili.
+
+  > I risultati di FANDANGO sono rivolti all’uso da parte di professionisti del settore (giornalisti) che pur non volendo delegare completamente il proprio giudizio circa la veridicità e affidabilità di una specifica notizia a sistemi totalmente automatici, sentono l’esigenza di sistemi di supporto che forniscano specifiche valutazioni circa potenziali indizi di manipolazione.
