@@ -1,9 +1,9 @@
 ---
-title: In the media
+title: Media coverage
 date: 2020-09-14 13:25:00 Z
 permalink: "/achievements/media/"
 position: 2
-navigation_order: 2
+navigation_order: 3
 navigation_parent: Achievements
 ---
 
