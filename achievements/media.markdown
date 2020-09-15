@@ -9,7 +9,7 @@ navigation_parent: Achievements
 
 {: .resources-list}
 
- > [AI and Big Data at the service of truth](https://www.ingenium-magazine.it/en/ai-big-data-al-servizio-della-verita/) [Ingenium Magazine
+ > [AI and Big Data at the service of truth](https://www.ingenium-magazine.it/en/ai-big-data-al-servizio-della-verita/) [Ingenium Magazine]
 
  > [Can artificial intelligence help end fake news?](https://horizon-magazine.eu/article/can-artificial-intelligence-help-end-fake-news.html) [Horizon Magazine]
 
