@@ -2,7 +2,7 @@
 title: Events and presentations
 date: 2018-02-28 12:40:00 Z
 permalink: "/achievements/public-events/"
-position: 2
+position: 0
 navigation_order: 2
 navigation_parent: Achievements
 ---
