@@ -5,20 +5,22 @@ lead: Join us for this online event hosted by Fandango on March 26th at 09.00 PM
 image: "/uploads/Captura%20de%20pantalla%202021-03-10%20a%20las%2017.03.49.png"
 ---
 
-Join us for this online event on **March 26th** at **09.00 PM (CET)**. A group of high-level panelists from different sectors will share with us their insights on: 
+Join us for this online event on **March 26th** at **09.00 PM (CET)**. 
+
+A group of high-level panelists from different sectors will share with us their insights on: 
 
 * The role of the EU’s ICT policies in protecting European values, markets and citizens against disinformation
 * The use of Big Data and quality data for fake news and disinformation detection
 * Innovation and the role of EU's ICT ecosystem against disinformation
 
-Registration is free and can be done via this form:
+Registration is free and can be done **via this form**:
 
 <iframe width="100%" height="420" frameborder="0" src="https://app.livestorm.co/p/0e52d49f-d865-4352-909c-1a3c013b9334/form" title="Rethinking the possibilities of data and technology in the fight against disinformation | Fandango Project"></iframe>
 
 
 ---
 
-### Provisional Agenda
+#### Provisional Agenda
 
 09:00. Opening remarks
 
