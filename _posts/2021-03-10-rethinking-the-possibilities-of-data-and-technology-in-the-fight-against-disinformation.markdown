@@ -22,7 +22,7 @@ Registration is free and can be done **via this form**:
 
 #### Provisional Agenda
 
-* 09:00. Opening remarks
+* 09:00. **Opening remarks**
 
 * 09:15 - 10:15. **The role of the EU’s ICT policies in protecting European values, markets and citizens against disinformation**
 
