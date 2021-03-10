@@ -13,7 +13,7 @@ Join us for this online event on **March 26th** at **09.00 PM (CET)**. A group o
 
 Registration is free and can be done via this form:
 
-<iframe width="100%" height="400" frameborder="0" src="https://app.livestorm.co/p/0e52d49f-d865-4352-909c-1a3c013b9334/form" title="Rethinking the possibilities of data and technology in the fight against disinformation | Fandango Project"></iframe>
+<iframe width="100%" height="420" frameborder="0" src="https://app.livestorm.co/p/0e52d49f-d865-4352-909c-1a3c013b9334/form" title="Rethinking the possibilities of data and technology in the fight against disinformation | Fandango Project"></iframe>
 
 
 ---
