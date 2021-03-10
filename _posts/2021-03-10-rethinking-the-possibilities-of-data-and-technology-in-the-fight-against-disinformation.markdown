@@ -20,24 +20,24 @@ Registration is free and can be done via this form:
 
 ### Provisional Agenda
 
-**09:00 | Opening remarks**
+09:00 | Opening remarks
 
-**09:15 - 10:15 | The role of the EU’s ICT policies in protecting European values, markets and citizens against disinformation**
+09:15 - 10:15 | **The role of the EU’s ICT policies in protecting European values, markets and citizens against disinformation**
 
-*This session will define the scope of the problem and canvass the key principles for further action with attention to strengthening multi-stakeholder cooperation and bringing in expertise from the EU’s ICT and Media sectors and their R&D performance against disinformation*.
+This session will define the scope of the problem and canvass the key principles for further action with attention to strengthening multi-stakeholder cooperation and bringing in expertise from the EU’s ICT and Media sectors and their R&D performance against disinformation.
 
-*Topics: policy initiatives, digital market, multi-stakeholder cooperation, research and development, media policies and regulation*
+**Topics**: policy initiatives, digital market, multi-stakeholder cooperation, research and development, media policies and regulation
 
-**10:30 - 11:30 | Big Data and quality data for fake news and disinformation detection**
+10:30 - 11:30 | **Big Data and quality data for fake news and disinformation detection**
 
-*Data silos can cause inefficiency and ineffectiveness also in tackling fake news and disinformation. A number of initiatives will provide examples of how data ingestion, processing and analysis to extract relevant features, can serve as a means of verification of multimedia contents*.
+Data silos can cause inefficiency and ineffectiveness also in tackling fake news and disinformation. A number of initiatives will provide examples of how data ingestion, processing and analysis to extract relevant features, can serve as a means of verification of multimedia contents.
 
-*Topics: information silos, data integration and interoperability, storage, machine learning, natural language processing, content verification*
+**Topics**: information silos, data integration and interoperability, storage, machine learning, natural language processing, content verification
 
-**11:45 - 12:45 | EU's ICT ecosystem against disinformation: the challenges ahead**
+11:45 - 12:45 | **EU's ICT ecosystem against disinformation: the challenges ahead**
 
-*Startups, incubators and accelerator programmes that are shaping the digital value chain through innovative uses of data will discuss the challenges ahead and their contribution to a more responsible digital market and citizenship in the EU*.
+Startups, incubators and accelerator programmes that are shaping the digital value chain through innovative uses of data will discuss the challenges ahead and their contribution to a more responsible digital market and citizenship in the EU.
 
-*Topics: uses of data, sectoral industries, industrial alliances, innovation ecosystems, incubation and acceleration*
+**Topics**: uses of data, sectoral industries, industrial alliances, innovation ecosystems, incubation and acceleration
 
-**12:45 | Closing remarks**
+12:45 | **Closing remarks**
