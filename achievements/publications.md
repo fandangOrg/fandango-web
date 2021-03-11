@@ -7,6 +7,8 @@ navigation_order: 1
 navigation_parent: Achievements
 ---
 
+#### AI
+
 {: .resources-list}
 * Chatzitofis, A.; Cancian, P.; Gkitsas, V.; Carlucci, A.; Stalidis, P.; Albanis, G.; Karakottas, A.; Semertzidis, T.; Daras, P.; Giannitto, C.; Casiraghi, E.; Sposta, F.M.; Vatteroni, G.; Ammirabile, A.; Lofino, L.; Ragucci, P.; Laino, M.E.; Voza, A.; Desai, A.; Cecconi, M.; Balzarini, L.; Chiti, A.; Zarpalas, D.; Savevski, V. **[Volume-of-Interest Aware Deep Neural Networks for Rapid Chest CT-Based COVID-19 Patient Risk Assessment](https://www.mdpi.com/1660-4601/18/6/2842/htm)**. Int. J. Environ. Res. Public Health 2021, 18, 2842. https://doi.org/10.3390/ijerph18062842
 
