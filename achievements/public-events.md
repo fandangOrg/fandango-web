@@ -7,6 +7,8 @@ navigation_order: 2
 navigation_parent: Achievements
 ---
 
+[IFDaD 2020](http://oi2media.es/index.php/jornadas-2018/), December 2020. Artificial Intelligence against disinformation: the FANDANGO practical case. [Video available](https://fandango-project.eu/news/2021/01/18/artificial-intelligence-against-disinformation-fandango-at-ifdad-2020/).
+
 [Human and societal aspects of the pandemic and beyond](https://dghome.mci-events.eu/ehome/index.php?eventid=547670&): domestic violence, child sexual abuse, infodemic, September 2020. Virtual meeting organised by DG Home.
 
 <p>&nbsp;</p>
