@@ -33,6 +33,12 @@ navigation_parent: Achievements
 
 {: .resources-list}
 
+* F. Nucci, S. Boi, M. Magaldi, [Artificial Intelligence against disinformation: the FANDANGO practical case](http://ceur-ws.org/Vol-2781/paper3.pdf). [IFDaD 2020](http://ceur-ws.org/Vol-2781/), December 2020.
+
+ > The present paper discusses how Artificial Intelligence can support the fight to disinformation to support a correct access to the news and content to the citizens, allowing the right democratic participation. The paper presents some results of a running EU co-funded project, named FANDANGO, describing its technological approach and architecture. In the first and second chapters the context of disinformation is presented, in chapter 3 and 4 the FANDANGO project is shortly described, including its AI approach and dataflow architecture, chapter 5 describes the project use cases: climate change, immigration, and European policies. Finally, some short conclusions conclude the paper with general considerations on the status of digital media and with some preliminary suggestions to enforce the media in European ecosystem. 
+
+{: .resources-list}
+
 * F. Nucci, M. Magaldi, L. Bevilacqua, "[FANDANGO (FAke News discovery and propagation from big Data and artificial inteliGence Operations) un approccio centrato sulla AI per contrastare la disinformazione](http://www.ital-ia.it/workshop/ai-for-media-and-entertainment)", [Ital-IA](http://www.ital-ia.it), March 2019.
 
   > FANDANGO è un importante progetto di ricerca industriale della durata di 36 mesi, cofinanziato dalla UE. FANDANGO vuole realizzare, nell’ambito di una piattaforma orientata all’analisi dei Big Data, un insieme di strumenti di AI capaci di coadiuvare l’identificazione di notizie false o fuorvianti sulla base di indizi derivanti dall’analisi della struttura testuale della notizia, dei media ad essa associati e - ove possibile - del riscontro con fonti dati aperte e affidabili.
