@@ -1,6 +1,6 @@
 ---
 title: Rethinking the possibilities of data and technology in the fight against disinformation
-date: 2021-03-11 10:45:00 Z
+date: 2021-03-11 08:45:00 Z
 lead: Join us for this online event hosted by Fandango on March 26th at 09.00 PM (CET).
 image: "/uploads/Captura%20de%20pantalla%202021-03-10%20a%20las%2017.03.49.png"
 ---
