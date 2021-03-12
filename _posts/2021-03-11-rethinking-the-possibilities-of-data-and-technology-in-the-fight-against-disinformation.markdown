@@ -30,9 +30,11 @@ A group of **high-level panelists** from different sectors will share with us th
 
 * 10:30 - 11:30. **Big Data and quality data for fake news and disinformation detection**
 
-Data silos can cause inefficiency and ineffectiveness also in tackling fake news and disinformation. A number of initiatives will provide examples of how data ingestion, processing and analysis to extract relevant features, can serve as a means of verification of multimedia contents.
+  * **Massimo Magaldi**. Head of Big Data Practice - CoE Data & Analytics of Engineering. Fandango consortium member.
 
-**Topics**: information silos, data integration and interoperability, storage, machine learning, natural language processing, content verification
+  * ** Yiannis Kompatsiaris**. Senior Researcher. Information Technologies Institute, CERTH. AI4MEDIA consortium member.
+
+  * **Viktoras Dauksas**. Head of Debunk EU initiative.
 
 * 11:45 - 12:45. **EU's ICT ecosystem against disinformation: the challenges ahead**
 
