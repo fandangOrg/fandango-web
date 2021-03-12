@@ -38,11 +38,14 @@ A group of **high-level panelists** from different sectors will share with us th
 
 * 11:45 - 12:45. **EU's ICT ecosystem against disinformation: the challenges ahead**
 
+  * **Alexandra Garatzogianni**. Head of Knowledge and technology transfer. Coordinator of EU Projects (MediaFutures EU and TrustsData among them) at Leibniz University of Hannover. 
+  
   * **Jeferson Zanim**. Head of Client Services at Siren.io. Fandango consortium member.
 
   * **Mike Matton**. Head of international R&D collaborations at VRT Innovation. Fandango and Media Motor Partner.
 
-  * **Alexandra Garatzogianni**. Head of Knowledge and technology transfer. Coordinator of EU Projects (MediaFutures EU and TrustsData among them) at Leibniz University of Hannover. 
+  * **Ernesto La Mattina**. Research Area Manager at. ‎Engineering. Activity leader at REVEAL - disinformation over Internet.
+
 
 * 13:45. **Closing remarks**
 
