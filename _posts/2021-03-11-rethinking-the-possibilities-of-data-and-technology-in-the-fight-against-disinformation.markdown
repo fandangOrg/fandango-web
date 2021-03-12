@@ -38,9 +38,12 @@ A group of **high-level panelists** from different sectors will share with us th
 
 * 11:45 - 12:45. **EU's ICT ecosystem against disinformation: the challenges ahead**
 
-Startups, incubators and accelerator programmes that are shaping the digital value chain through innovative uses of data will discuss the challenges ahead and their contribution to a more responsible digital market and citizenship in the EU.
+ * **Massimo Magaldi**. Head of Big Data Practice - CoE Data & Analytics of Engineering. Fandango consortium member.
 
-**Topics**: uses of data, sectoral industries, industrial alliances, innovation ecosystems, incubation and acceleration
+  * **Yiannis Kompatsiaris**. Senior Researcher. Information Technologies Institute, CERTH. AI4MEDIA consortium member.
+
+  * **Viktoras Dauksas**. Head of Debunk EU initiative.
+
 
 * 12:45. **Closing remarks**
 
