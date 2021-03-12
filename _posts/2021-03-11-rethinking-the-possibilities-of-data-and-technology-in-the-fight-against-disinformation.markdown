@@ -38,9 +38,9 @@ A group of **high-level panelists** from different sectors will share with us th
 
 * 11:45 - 12:45. **EU's ICT ecosystem against disinformation: the challenges ahead**
 
- * **Massimo Magaldi**. Head of Big Data Practice - CoE Data & Analytics of Engineering. Fandango consortium member.
+  * **Jeferson Zanim**. Head of Big Data Practice - CoE Data & Analytics of Engineering. Fandango consortium member.
 
-  * **Yiannis Kompatsiaris**. Senior Researcher. Information Technologies Institute, CERTH. AI4MEDIA consortium member.
+  * **Mike Matton**. Senior Researcher. Information Technologies Institute, CERTH. AI4MEDIA consortium member.
 
   * **Viktoras Dauksas**. Head of Debunk EU initiative.
 
