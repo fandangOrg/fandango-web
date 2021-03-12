@@ -42,9 +42,9 @@ A group of **high-level panelists** from different sectors will share with us th
   
   * **Jeferson Zanim**. Head of Client Services at Siren.io. Fandango consortium member.
 
-  * **Mike Matton**. Head of international R&D collaborations at VRT Innovation. Fandango and Media Motor Partner.
-
   * **Ernesto La Mattina**. Research Area Manager at. ‎Engineering. Activity leader at REVEAL - disinformation over Internet.
+
+  * **Mike Matton**. Head of international R&D collaborations at VRT Innovation. Fandango and Media Motor Partner.
 
 
 * 13:45. **Closing remarks**
