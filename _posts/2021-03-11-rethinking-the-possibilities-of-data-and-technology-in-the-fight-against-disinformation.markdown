@@ -32,7 +32,7 @@ A group of **high-level panelists** from different sectors will share with us th
 
   * **Massimo Magaldi**. Head of Big Data Practice - CoE Data & Analytics of Engineering. Fandango consortium member.
 
-  * ** Yiannis Kompatsiaris**. Senior Researcher. Information Technologies Institute, CERTH. AI4MEDIA consortium member.
+  * **Yiannis Kompatsiaris**. Senior Researcher. Information Technologies Institute, CERTH. AI4MEDIA consortium member.
 
   * **Viktoras Dauksas**. Head of Debunk EU initiative.
 
