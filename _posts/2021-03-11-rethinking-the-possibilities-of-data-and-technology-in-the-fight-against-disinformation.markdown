@@ -42,8 +42,7 @@ A group of **high-level panelists** from different sectors will share with us th
 
   * **Mike Matton**. Head of international R&D collaborations at VRT Innovation. Fandango and Media Motor Partner.
 
-  * **Alexandra Garatzogianni**. Coordinator of MediaFutures EU and TrustsData.
-
+  * **Alexandra Garatzogianni**. Head of Knowledge and technology transfer. Coordinator of EU Projects (MediaFutures EU and TrustsData among them) at Leibniz University of Hannover. 
 
 * 13:45. **Closing remarks**
 
