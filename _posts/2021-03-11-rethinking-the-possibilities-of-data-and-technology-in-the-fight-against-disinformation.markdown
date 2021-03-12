@@ -13,9 +13,6 @@ A group of **high-level panelists** from different sectors will share with us th
 * The use of Big Data and quality data for fake news and disinformation detection
 * Innovation and the role of EU's ICT ecosystem against disinformation
 
-Registration is free and can be done **via this form**:
-
-<iframe width="100%" height="420" frameborder="0" src="https://app.livestorm.co/p/0e52d49f-d865-4352-909c-1a3c013b9334/form" title="Rethinking the possibilities of data and technology in the fight against disinformation | Fandango Project"></iframe>
 
 
 ---
@@ -26,9 +23,10 @@ Registration is free and can be done **via this form**:
 
 * 09:15 - 10:15. **The role of the EU’s ICT policies in protecting European values, markets and citizens against disinformation**
 
-This session will define the scope of the problem and canvass the key principles for further action with attention to strengthening multi-stakeholder cooperation and bringing in expertise from the EU’s ICT and Media sectors and their R&D performance against disinformation.
+  * **Alberto Rabbachin**. Scientific Programme Officer. DG CONNECT. European commission.
 
-**Topics**: policy initiatives, digital market, multi-stakeholder cooperation, research and development, media policies and regulation
+  * **Miguel Poiares Maduro**. Professor of the School of Transnational Governance. European University Institute. Chair of the Executive Board of the European Digital Media Observatory. 
+
 
 * 10:30 - 11:30. **Big Data and quality data for fake news and disinformation detection**
 
@@ -43,3 +41,9 @@ Startups, incubators and accelerator programmes that are shaping the digital val
 **Topics**: uses of data, sectoral industries, industrial alliances, innovation ecosystems, incubation and acceleration
 
 * 12:45. **Closing remarks**
+
+--
+
+Registration is free and can be done **via this form**:
+
+<iframe width="100%" height="420" frameborder="0" src="https://app.livestorm.co/p/0e52d49f-d865-4352-909c-1a3c013b9334/form" title="Rethinking the possibilities of data and technology in the fight against disinformation | Fandango Project"></iframe>
