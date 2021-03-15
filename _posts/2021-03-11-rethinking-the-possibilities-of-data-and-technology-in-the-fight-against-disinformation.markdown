@@ -5,7 +5,7 @@ lead: Join us for this online event hosted by Fandango on March 26th at 09.00 PM
 image: "/uploads/Captura%20de%20pantalla%202021-03-10%20a%20las%2017.03.49.png"
 ---
 
-Join us for this online event on **March 26th** at **09.00 PM (CET)**. 
+Join us for this online event on **March 26th** at **09.00 PM (CET)**.
 
 A group of **high-level panelists** from different sectors will share with us their insights on: 
 
@@ -30,7 +30,7 @@ A group of **high-level panelists** from different sectors will share with us th
 
 * 10:30 - 11:30. **Big Data and quality data for fake news and disinformation detection**
 
-  * **Massimo Magaldi**. Head of Big Data Practice - CoE Data & Analytics of Engineering. Fandango consortium member.
+  * **Massimo Magaldi**. Senior Researcher, Digital Media and Energy Lab. Engineering Ingegneria Informatica. Fandango consortium member and Technical Director.
 
   * **Yiannis Kompatsiaris**. Senior Researcher. Information Technologies Institute, CERTH. AI4MEDIA consortium member.
 
