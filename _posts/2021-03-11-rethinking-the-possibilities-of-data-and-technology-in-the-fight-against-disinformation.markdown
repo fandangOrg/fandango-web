@@ -32,7 +32,7 @@ A group of **high-level panelists** from different sectors will share with us th
 
   * **Massimo Magaldi**. Senior Researcher, Digital Media and Energy Lab. Engineering Ingegneria Informatica. Fandango consortium member and Technical Director.
 
-  * **Yiannis Kompatsiaris**. Senior Researcher. Information Technologies Institute, CERTH. AI4MEDIA consortium member.
+  * **Yiannis Kompatsiaris**. Senior Researcher. Information Technologies Institute, CERTH. AI4MEDIA coordinator.
 
   * **Viktoras Dauksas**. Head of Debunk EU initiative.
 
