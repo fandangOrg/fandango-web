@@ -25,7 +25,7 @@ A group of **high-level panelists** from different sectors will share with us th
 
   * **Alberto Rabbachin**. Scientific Programme Officer. DG CONNECT. European commission.
 
-  * **Miguel Poiares Maduro**. Professor of the School of Transnational Governance. European University Institute. Chair of the Executive Board of the European Digital Media Observatory. 
+  * **Paula Gori**. Secretary-General and Project Manager Leader of the European Digital Media Observatory. 
 
 
 * 10:30 - 11:30. **Big Data and quality data for fake news and disinformation detection**
