@@ -23,6 +23,8 @@ A group of **high-level panelists** from different sectors will share with us th
 
 * 09:15 - 10:15. **The role of the EU’s ICT policies in protecting European values, markets and citizens against disinformation**
 
+  * **Paolo Casarini**. Former Senior European Commission official officer. *Disinformation: towards a EU regulatory framework*.
+
   * **Alberto Rabbachin**. Scientific Programme Officer. DG CONNECT. European commission.
 
   * **Paula Gori**. Secretary-General and Project Manager Leader of the European Digital Media Observatory. 
