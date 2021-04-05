@@ -9,6 +9,8 @@ navigation_parent: Achievements
 
 {: .resources-list}
 
+ > [Ψευδείς ειδήσεις και παραπληροφόρηση: Η συνεισφορά του ευρωπαϊκού προγράμματος FANDANGO](https://www.cnn.gr/focus/story/260479/pseydeis-eidiseis-kai-parapliroforisi-h-syneisfora-toy-eyropaikoy-programmatos-fandango) [CNN Greece]
+
  > [AI and Big Data at the service of truth](https://www.ingenium-magazine.it/en/ai-big-data-al-servizio-della-verita/) [Ingenium Magazine]
 
  > [Can artificial intelligence help end fake news?](https://horizon-magazine.eu/article/can-artificial-intelligence-help-end-fake-news.html) [Horizon Magazine]
