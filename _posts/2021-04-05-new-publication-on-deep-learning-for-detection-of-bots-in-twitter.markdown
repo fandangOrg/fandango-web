@@ -3,8 +3,8 @@ title: |-
   New publication on Deep Learning for
   Detection of Bots in Twitter
 date: 2021-04-05 08:14:00 Z
-lead: New article published by Fandango's partner Universidad Politécnica de Madrid
-  (UPM) in IEEE Access.
+lead: Published by Fandango's partner Universidad Politécnica de Madrid (UPM) in IEEE
+  Access.
 image: "/uploads/Captura%20de%20pantalla%202021-04-05%20a%20las%2010.20.28.png"
 ---
 
