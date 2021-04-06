@@ -12,13 +12,13 @@ The main goal of the event was to show that it is possible to leverage Big Data 
 
 [Check the final agenda](https://fandango-project.eu/news/2021/03/11/rethinking-the-possibilities-of-data-and-technology-in-the-fight-against-disinformation/).
 
-The discussions touched political and institutional, technological and research and industrial dimensions, with a strong involvement of other running projects such as the European Digital Media Observatory, the AI4Media project, Media Futures or the Social Observatory for Disinformation and Social Media Analysis. 
+The different sessions tackled all dimensions of the problem bringing together the political, institutional, technological, industrial and investigative realms. The event involved other running projects such as the European Digital Media Observatory, the AI4Media project, Media Futures or the Social Observatory for Disinformation and Social Media Analysis.
 
-148 professionals registered in the event, and 109 (74%) from 20 different countries positively attended and participated in it.
+148 professionals registered in the event, and 109 (74%) from 20 different countries attended and participated in it.
 
 We are very grateful to the communication unit of DG CONNECT, the European Digital Media Observatory, SOMA, MediaFutures and ANSA for their cooperation to disseminate this activity.
 
-Thank you to all speakers and the audience that made possible this fruitful discussion. 
-
+Thank you to all speakers and the audience that made possible this fruitful discussion.
+ 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/TDdDEHch4YM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
