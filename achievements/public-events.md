@@ -13,6 +13,10 @@ navigation_parent: Achievements
 
 <p>&nbsp;</p>
 
+[Fandago at Meta-Forum 2019 (Brussels, Belgium)](https://www.european-language-grid.eu/wp-content/uploads/2019/10/07-05-FANDANGO.pdf). A presentation by Francesco Saverio Nucci (Engineering).
+
+<p>&nbsp;</p>
+
 [Augmented Journalism: the Future of Information in Times of Artificial Intelligence](https://fandango-project.eu/news/2019/11/15/augmented-journalism-the-future-of-information-in-times-of-artificial-intelligence/). October 2019. Engineering presented Fandango at an panel discussion organized by the Italian news agency ANSA, also a member of the Fandango consortium.
 
 <center>
